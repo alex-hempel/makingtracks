@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://makingtrackstest.ah-web.org/feed.xml" rel="self" />
     <link href="https://makingtrackstest.ah-web.org" />
-    <updated>2025-01-21T19:43:38+10:00</updated>
+    <updated>2025-01-21T21:09:43+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -467,14 +467,18 @@
             <summary>
                 <![CDATA[
                         <img src="https://makingtrackstest.ah-web.org/media/posts/47/kS70QGw-Imgur.jpg" alt="" />
-                    Yes, it's been a while. Again. You have my permission to chuckle. Amidst webserver woes and general life challenges I have not had&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>Yes, it's been a while. Again. You have my permission to chuckle. Amidst webserver woes and general life challenges I have not had the time or energy to post, much less make significant progress with my model train setup.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://makingtrackstest.ah-web.org/media/posts/47/kS70QGw-Imgur.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
-<p>Yes, it's been a while. Again. You have my permission to chuckle. Amidst webserver woes and general life challenges I have not had the time or energy to post, much less make significant progress with my model train setup. But that doesn't mean that nothing has happened in the past two years. I've renewed my control setup, made some tweaks to make trains move more smoothly and consistently, and when nothing else helped, well, I got some new trains.</p>
+<p>Yes, it's been a while. Again. You have my permission to chuckle. Amidst webserver woes and general life challenges I have not had the time or energy to post, much less make significant progress with my model train setup.</p>
+
+<p>But that doesn't mean that nothing has happened in the past two years. I've renewed my control setup, made some tweaks to make trains move more smoothly and consistently, and when nothing else helped, well, I got some new trains.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>So let's start with those, at least the latest additions (otherwise this post will take me the whole year to finish).</p>
@@ -619,7 +623,9 @@
             <summary>
                 <![CDATA[
                         <img src="https://makingtrackstest.ah-web.org/media/posts/42/img_5575-scaled.jpg" alt="" />
-                    Well over two years ago, I wrote about the conclusion of my quest to find point motors. At the time, the Cobalt motors&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>Well over two years ago, I wrote about the <a href="https://makingtracks.ah-web.org/2019/02/17/point-motor-shoot-out-final/" data-type="post" data-id="307">conclusion of my quest to find point motors</a>. At the time, the Cobalt motors became the solution of choice. But of course, that couldn't have been the end of it.</p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -627,6 +633,7 @@
                     <p><img src="https://makingtrackstest.ah-web.org/media/posts/42/img_5575-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Well over two years ago, I wrote about the <a href="https://makingtracks.ah-web.org/2019/02/17/point-motor-shoot-out-final/" data-type="post" data-id="307">conclusion of my quest to find point motors</a>. At the time, the Cobalt motors became the solution of choice. But of course, that couldn't have been the end of it.</p>
+
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Why not? Because a bigger layout was always in the cards. And while the Cobalts were a good solution at the time, that solution wasn't going to scale well. Due to a unit price of now $50 Australian ($37.50 if bought in a set of 12), they are simply very costly. Once I had determined the new track plan, with a grand total of 31 points, I gulped twice and shelved the idea of buying more of these motors.</p>
