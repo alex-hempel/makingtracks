@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://alex-hempel.github.io/makingtracks/feed.xml" rel="self" />
     <link href="https://alex-hempel.github.io/makingtracks" />
-    <updated>2025-01-21T13:51:34+10:00</updated>
+    <updated>2025-01-21T17:03:08+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -23,7 +23,7 @@
                 <![CDATA[
                         <img src="https://alex-hempel.github.io/makingtracks/media/posts/52/IMG_6212-scaled.jpg" alt="" />
                     <p><!-- wp:paragraph --></p>
-<p>It has been five years since, in a quest to assemble a specific train, I acquired a model of an East German dining car in the then typical red Mitropa livery. At the time, I didn't really know what I had bought - only that the model had been produced in the GDR</p>
+<p>It has been five years since, in a quest to assemble a specific train, I acquired a model of an East German dining car in the then typical red Mitropa livery. At the time, I didn't really know what I had bought - only that the model had been produced in the GDR. But I was surprised at the condition of the model and the still working interior lighting. Subsequently I learned a bit more about the providence of it.</p>
 
                 ]]>
             </summary>
@@ -31,9 +31,8 @@
             <![CDATA[
                     <p><img src="https://alex-hempel.github.io/makingtracks/media/posts/52/IMG_6212-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
-<p>It has been five years since, in a quest to assemble a specific train, I acquired a model of an East German dining car in the then typical red Mitropa livery. At the time, I didn't really know what I had bought - only that the model had been produced in the GDR</p>
+<p>It has been five years since, in a quest to assemble a specific train, I acquired a model of an East German dining car in the then typical red Mitropa livery. At the time, I didn't really know what I had bought - only that the model had been produced in the GDR. But I was surprised at the condition of the model and the still working interior lighting. Subsequently I learned a bit more about the providence of it.</p>
 
-<p>- but I was surprised at the condition of the model and the still working interior lighting. Subsequently I learned a bit more about the providence of it.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The model had been made by East German company Schicht, which had been founded in 1947 in Dresden and focused on the production of model railway rolling stock. Interestingly, Schicht was a precursor to Piko. The heritage of Schicht lived on in models made by Sachsenmodelle and later Tillig.</p>
@@ -152,7 +151,9 @@
             <summary>
                 <![CDATA[
                         <img src="https://alex-hempel.github.io/makingtracks/media/posts/48/img_7530-scaled.jpg" alt="" />
-                    Some time ago I took delivery of my first batch of signals. These are generic 3-light signals made in China. They aren't particularly&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>Some time ago I took delivery of my first batch of signals. These are generic 3-light signals made in China. They aren't particularly prototypical - the aspects resemble a type of signal used here in Queensland, as well as some European signals. But the looks are very basic. However, for first experiments and wrapping my head around the subject matter, they are more than sufficient.</p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -160,6 +161,7 @@
                     <p><img src="https://alex-hempel.github.io/makingtracks/media/posts/48/img_7530-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Some time ago I took delivery of my first batch of signals. These are generic 3-light signals made in China. They aren't particularly prototypical - the aspects resemble a type of signal used here in Queensland, as well as some European signals. But the looks are very basic. However, for first experiments and wrapping my head around the subject matter, they are more than sufficient.</p>
+
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Of course I wanted to control them digitally, like everything else on my layout. As detailed in my post about servos for point control, I am using Arduino-based hardware and software provided by Dutch railway modeller Nico Teering under the name <a href="http://www.arcomora.com" target="_blank" rel="noreferrer noopener">ArCoMoRa</a>. Nico provides the DCCNext, basically a custom Arduino made for controlling model railway accessories. It can be set up with two different software options: MarDec for controlling standard accessories such as lights, point motors and similar; and ArSigDec, which is made specifically for controlling light signals with more complex aspects. Since I was already using MarDec, it made sense to give ArSigDec a whirl.</p>
@@ -250,13 +252,16 @@
         <updated>2025-01-03T22:27:08+10:00</updated>
             <summary>
                 <![CDATA[
-                    If you made it here from Pt I, and are willing to hear me out a bit more, let's talk about a few&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>If you made it here from <a href="https://alex-hempel.github.io/makingtracks/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/">Pt I</a>, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
 <p>If you made it here from <a href="https://alex-hempel.github.io/makingtracks/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/">Pt I</a>, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
+
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Before I get into the meat of that, let me lay a bit of groundwork. A modern DCC system, even at entry level, should have the following features (over and above the general capability to, well, run trains):</p>
@@ -378,13 +383,16 @@
         <updated>2025-01-03T22:24:30+10:00</updated>
             <summary>
                 <![CDATA[
-                    So you've decided to get into model railways. Congratulations and welcome to the fold. It's a beautiful hobby that can be practised in&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>So you've decided to get into model railways. Congratulations and welcome to the fold. It's a beautiful hobby that can be practised in many different ways, and all of them are equally valid.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
 <p>So you've decided to get into model railways. Congratulations and welcome to the fold. It's a beautiful hobby that can be practised in many different ways, and all of them are equally valid.</p>
+
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>You've probably already read a bit about Digital Command Control, or DCC, and maybe you've already decided to go for it. If you're still wondering if you should let me make the decision easier for you: yes, you want DCC. Unless you're planning to run one single train on a simple oval around your Christmas tree, DCC can only benefit you. And that's despite its learning curve.</p>
@@ -498,33 +506,29 @@
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>Lastly, I've finally gotten around to get loads for the RQTY container wagons I've had for quite some time now. A while ago I got a single container just to check the fit and looks, but that wasn't enough. Fun fact, Australian model manufacturer On Track Models have produced several runs of - again - period-appropriate 40ft curtain-sided containers with a variety of motifs. In one of the earlier runs there were advertising graphics of some Australian products which tickled my fancy, and even though they were largely sold out, I managed to get my hands on a few, namely the containers advertising peanut butter, Vegemite, and laundry liquid.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7383.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7383-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7398.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7398-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7399.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7399-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"attachment"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1266,"sizeSlug":"large","linkDestination":"attachment"} -->
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7383/"><figure class="wp-image-1266"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7383-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:image {"id":1263,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7398/"><figure class="wp-image-1263"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7398-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:image {"id":1265,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7399/"><figure class="wp-image-1265"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7399-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-</figure>
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>To fill the gaps on the 63ft container wagons, a bunch of 20ft container models from Auscision came into the fold. Yes, the overall base colour is blue, but that wasn't too much of a bother to me. Most other variations from those production runs were sold out, and new runs will take some time.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7400.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7400-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>20ft container with side doors</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7401.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7401-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>20ft container with roof hatch</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7403.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7403-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>20ft container with end doors</figcaption>
+</figure>
+</div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"attachment"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1262,"sizeSlug":"large","linkDestination":"attachment"} -->
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7401/"><figure class="wp-image-1262"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7401-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:image {"id":1261,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7403/"><figure class="wp-image-1261"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7403-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:image {"id":1260,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7400/"><figure class="wp-image-1260"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7400-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-</figure>
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>And a fully loaded container train looks a bit like this.</p>
@@ -543,14 +547,17 @@
 <ul>
 <li style="list-style-type: none;">
 <ul><!-- wp:list-item -->
-<li>A change of the control setup. I got rid of the <a href="https://alex-hempel.github.io/makingtracks/out-with-the-old-in-with-the-new/">DR5000</a> and positively splurged on a completely different setup, with the ESU ECoS and its wireless Mobile Control II. The ECoS has now been in poeration for over a year and I can say I've never been happier with my controls. The form factor combining a versatile touch screen with physical speed controllers and function buttons is near perfect for me.</li>
+<li>A change of the control setup. I got rid of the <a href="https://alex-hempel.github.io/makingtracks/out-with-the-old-in-with-the-new/">DR5000</a> and positively splurged on a completely different setup, with the ESU ECoS and its wireless Mobile Control II. The ECoS has now been in poeration for over a year and I can say I've never been happier with my controls. The form factor combining a versatile touch screen with physical speed controllers and function buttons is near perfect for me.<br>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7503.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7503-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
+</li>
 </ul>
 </li>
 </ul>
 <p><!-- /wp:list-item --></p>
 <p><!-- /wp:list --></p>
 <p><!-- wp:image {"id":1283,"width":"672px","height":"auto","sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-1283"><img loading="lazy"  style="width: 672px; height: auto;" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7503-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-2xl.jpg 1600w"></figure></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:list --></p>
 <ul>
@@ -572,22 +579,15 @@
 <p><!-- /wp:list-item --></p>
 <p><!-- /wp:list --></p>
 <p><!-- wp:paragraph --></p>
-<p>Also, as a real life highlight, I traveled on the world famous Ghan from Adelaide to Darwin. In the course of that trip I finally got to see the mighty NR class up close. Also, I visited the Adelaide Railway Museum which, among other things, exhibits one of three remaining exemplars of the 900 Class locomotive - an absolutely impressive machine.</p>
+<p>Also, as a real life highlight, I travelled on the world famous Ghan from Adelaide to Darwin. In the course of that trip I finally got to see the mighty NR class up close. Also, I visited the Adelaide Railway Museum which, among other things, exhibits one of three remaining exemplars of the 900 Class locomotive - an absolutely impressive machine.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7235.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7235-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7229.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7229-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7059.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7059-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7056-1.jpg" data-size="2425x1364"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_7056-1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1281,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7235-scaled.jpg"><figure class="wp-image-1281"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7235-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:image {"id":1280,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7229-scaled.jpg"><figure class="wp-image-1280"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7229-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:image {"id":1285,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7061-scaled.jpg"><figure class="wp-image-1285"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7061-576x1024.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-<p><!-- wp:image {"id":1282,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7056-1.jpg"><figure class="wp-image-1282"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7056-1-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p><!-- /wp:image --></p>
-</figure>
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>As for future plans, I mainly want to spend more time in the train room. I've gained some momentum over the holidays and completed some experiments that will help me move forward with signals and feedback automation. Landscaping is pretty high on the list too, but that will be very slow and steady. The static grass applicator is already on the shelf.</p>
@@ -600,7 +600,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:embed {"url":"https://makertube.net/w/16JXHxhTtBMu7UX8Hc8PHW","type":"wp-embed","providerNameSlug":"peertube"} --></p>
 <figure class="wp-block-embed is-type-wp-embed is-provider-peertube wp-block-embed-peertube">
-<div class="wp-block-embed__wrapper">https://makertube.net/w/16JXHxhTtBMu7UX8Hc8PHW</div>
+<div class="wp-block-embed__wrapper"><iframe loading="lazy" width="702" height="395" style="width: 702px; height: 395px;" title="Freight Trains Crossing" src="https://makertube.net/videos/embed/00cd31bc-0699-47d5-89a5-2a0f343855c4" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 </figure>
 <p><!-- /wp:embed --></p>
             ]]>
