@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://alex-hempel.github.io/makingtracks/feed.xml" rel="self" />
     <link href="https://alex-hempel.github.io/makingtracks" />
-    <updated>2025-01-21T13:26:33+10:00</updated>
+    <updated>2025-01-21T13:51:34+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -256,121 +256,114 @@
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
-<p>If you made it here from Pt I, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>If you made it here from <a href="https://alex-hempel.github.io/makingtracks/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/">Pt I</a>, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Before I get into the meat of that, let me lay a bit of groundwork. A modern DCC system, even at entry level, should have the following features (over and above the general capability to, well, run trains): </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>Before I get into the meat of that, let me lay a bit of groundwork. A modern DCC system, even at entry level, should have the following features (over and above the general capability to, well, run trains):</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
-<ul><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul><!-- wp:list-item -->
 <li>a dedicated programming track output</li>
-<p>
-<!-- /wp:list-item --></p>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
 <p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
 <li>computer connectivity</li>
-<p>
-<!-- /wp:list-item --></p>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
 <p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
 <li>at least one usable feedback and extension bus</li>
-<p>
-<!-- /wp:list-item --></p>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
 <p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
 <li>built-in short-circuit protection.</li>
-<p>
-<!-- /wp:list-item --></ul>
-<p>
-<!-- /wp:list --></p>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
 <p><!-- wp:paragraph --></p>
-<p>A <strong>programming track</strong> is where you position your trains to make changes to its configuration. This may not be front and centre for a beginner, but it won't be long until you need to familiarise yourself with this topic. Having a dedicated programming track is useful because it is configured to use lower voltage, and you avoid accidentally writing config to the wrong train. While it is possible to do programming without a dedicated programming track, it comes with its own drawbacks and restrictions. These days, very few command stations (including entry-level offerings) do not have a dedicated programming track output. </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>A <strong>programming track</strong> is where you position your trains to make changes to its configuration. This may not be front and centre for a beginner, but it won't be long until you need to familiarise yourself with this topic. Having a dedicated programming track is useful because it is configured to use lower voltage, and you avoid accidentally writing config to the wrong train. While it is possible to do programming without a dedicated programming track, it comes with its own drawbacks and restrictions. These days, very few command stations (including entry-level offerings) do not have a dedicated programming track output.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Computer connectivity</strong> serves a few purposes: firmware or software updates, controlling trains and layouts using external software, or at times providing a more convenient interface for configuring the command central itself. There are very few command stations out there nowadays that don't have a computer connection, usually via USB but sometimes via a network connection.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>A <strong>feedback bus</strong> becomes relevant when you want to use a computer to control and automate your model railway. Specialised software uses feedbacks to determine where on your layout your trains currently are, and uses that information to control them. Going into in-depth detail would make this piece considerably longer than it already is, so let it suffice to say that if the idea of making your trains run across your layout by themselves appeals to you, a usable feedback bus is something you absolutely need. Common options are LocoNet, XPressNet (sometimes known as X-Bus or R-Bus), S88 or CAN. A wide range of accessories is available for these bus systems.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Short circuit protection</strong> is simply a must. Short circuits can seriously damage your trains and digital gear (and worse). It's not a question of <strong>if</strong> you will experience a short circuit, but <strong>when</strong>. All it takes is for a train to derail over a point. So the digital system needs to detect when a short circuit is happening, and turn off the track power immediately.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>With that out of the way, let's talk about a few digital system brands that you should simply put, avoid, even if recommended to you in the most glorifying way. These brands are: Hornby, MRC/Gaugemaster, and NCE.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Hornby produce the Elite controller, a system that actually looks pretty cool with its colour screen and twin control dials. It ticks all the above boxes in theory - but it is badly supported, unstable, and the entire product line appears to be abandoned. Those are enough reasons to skip past it.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Which might take you to MRC and it UK counterpart Gaugemaster, and you might as well keep skipping. The legacy MRC Prodigy system, sold in Europe under the Gaugemaster brand, is an insular solution lacking a feedback bus, and while it has computer connectivity, it is not supported by most of the software you'll find out there. Gaugemaster have also recently released their own Infinity product line, with the bold claim that it "delivers not what design engineers think you need but what modellers know it needs". Which is utterly laughable given the fact that it lacks a feedback bus and <strong>deliberately omits</strong> a computer interface. If all you want is to control trains with a handheld unit, this might suffice, but perish any thought of extensibility or interoperability.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>And that takes us to a brand I am going to single out a bit. I am on record for most of the following, and it continues to be a hill I am willing to die on:</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>As a DCC beginner in 2024, steer clear of NCE.</strong> </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><strong>As a DCC beginner in 2024, steer clear of NCE.</strong></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>North Coast Engineering, or NCE, are a US manufacturer of DCC equipment, including command stations, decoders and all manner of accessories. NCE is also one of the most frequently recommended brands when people ask the question that I elaborated on in Pt 1. So I am going to reiterate what I said before: steer clear of this brand. This is not a joke. If you're a DCC beginner in the year 2024 and beyond, there is <strong>zero </strong>reason for you to consider a digital system made by NCE. Absolutely <strong>none</strong>.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The NCE PowerCab, NCE's entry-level offering since at least 2006, is a particularly egregious case. It is a system stuck on a technical level from 15 years ago, the ecosystem has not seen any significant additions or updates in the same time. By today's standards it is underpowered and lacks features. Yet you are likely to hear people talk about it as if it were the best thing since sliced bread, and tell you it'll be the only thing you'll ever need. Particularly, its fans praise its affordability, ease of use, and extensibility. I am an erstwhile PowerCab user myself, and I can tell you that most of those claims are either vastly exaggerated, or simply bunkum. Fans will also talk about the robustness, reliability and customer support of NCE and its products. You won't hear me argue that particular point, but long-lived, well supported products are not unique to NCE either.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Ease of use is distinctly a matter of taste personally, I found the PowerCab to be neither particularly intuitive, nor easy or fun to use. It's a bulky unit that may not feel nice to hold or operate especially one-handed. It has some idiosyncrasies, such as its locomotive recall function (instead of an actual locomotive database), and its unintuitive point control (indicating 1 and 2 for the state of a point), both of which are likely to throw beginners, and frequently made me scratch my head. Controlling points, accessing decoder functions beyond the number 9, or even basic programming actions, are exercises in memorising sequences of button presses. The 2-line display is of low information density, and the majority of handheld controllers available these days has got much better displays.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><em>Now I should throw in here that, in particular, programming is not the forte of almost any hand controller I've seen in action. It's simply too complex a matter to be able to do with what is effectively a number pad with a few extra buttons. Using an app or dedicated software almost always beats using a handheld controller.</em></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>As far as extensibility goes, the claim that the PowerCab is easy to expand is simply misleading. It's no more or less expandable than the majority of systems out there. You can add boosters, throttles, and certain other devices for the Cab Bus. This is par for the course for virtually any system out there, and many of them uses bus systems that are way easier to configure than the Cab Bus. It is not a system that will easily grow with you - at some point you'll brush up against its limitations, and then it's a case of either spending a lot of money on effectively turning your PowerCab into a PowerPro - or just buying a better system.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>The PowerCab lacks <strong>all</strong> of the above mentioned features out of the box. Every single one. You have to pay extra to get any of them. You need a separate gadget to get computer connectivity, another one for a programming track output, and yet another one for good short circuit protection. </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>The PowerCab lacks <strong>all</strong> of the above mentioned features out of the box. Every single one. You have to pay extra to get any of them. You need a separate gadget to get computer connectivity, another one for a programming track output, and yet another one for good short circuit protection.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>NCE provide a so-called USB interface which connects to their bus and basically acts like a throttle, but it is not as well implemented as a properly integrated connection could be. To get a programming track, you used to have to jury-rig something yourself or buy the Auto_SW, a since discontinued gadget. Recently, NCE have released a new product called the PowerCab Partner, a device which combines the aforementioned USB interface and a dedicated programming track output. I suppose that some credit is due, but again, where has that been for the last ten years or so?</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The PowerCab's short circuit protection is so hopelessly inadequate it shouldn't even be called that. When the PowerCab detects a short circuit, it will go into a start/stop cycle until you physically unplug it. There is no clear indication that a short circuit has been detected. So it can take anyone a few seconds to a) realise what's happening and b) take the appropriate action. This allows for the short circuit to happen repeatedly, increasing the potential for damage. You can buy separate circuit breakers - or go for a system where that isn't necessary.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Now, the PowerCab does have a feedback bus. But you're be very restricted as to what, or rather, how much you can do. NCE produces the Auxiliary Input Unit (AIU), with which feedbacks can be implemented on the PowerCab. However, due to restrictions of the PowerCab specifically, you are limited to a maximum of five AIUs, which gives you at most 70 individual feedbacks. This may be enough for a small layout, but with anything larger or more complex, you're very likely to need more than that. To compare, common feedback bus systems implemented in many other command stations support between 512 and 4096 individual feedbacks.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Lastly, what makes a feedback bus usable is not only its existence, but the availability of feedback modules for it, and in that regard, the Cab Bus is just not up to snuff. Aside from the NCE AIU, no other feedback modules are available for the PowerCab. Meanwhile, if you have a command station with a more widespread bus system, you're able to get matching accessories from other manufacturers, and in some cases, you can even build them yourself.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><em>Note: the high-end NCE offerings revolving around the PowerPro have most of these features built in. Sadly that does not make them any more up-to-date, it just puts them on par with virtually any other offering at most price levels.</em></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Of course this puts a dent into the affordability. By itself the PowerCab may be cheaper, but by the time you've added all of the above, you're almost always better off opting for a different system. </p>
-<p>
-<!-- /wp:paragraph --></p>
+<p>Of course this puts a dent into the affordability. By itself the PowerCab may be cheaper, but by the time you've added all of the above, you're almost always better off opting for a different system.</p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>So to summarise a long read, one more time: if you're starting out with DCC in 2024 or beyond, you have no reason whatsoever to consider the NCE PowerCab as a command central. It has nothing to offer that you can't get elsewhere, and most alternatives have better implementations, better software support, or are simply nicer to use. The only reason to go for NCE is if you're going with your gut and it has tweaked your 'I bet that's fun to use' instinct more than the alternatives.</p>
-<p>
-<!-- /wp:paragraph --></p>
-
+<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
@@ -392,85 +385,64 @@
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
 <p>So you've decided to get into model railways. Congratulations and welcome to the fold. It's a beautiful hobby that can be practised in many different ways, and all of them are equally valid.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>You've probably already read a bit about Digital Command Control, or DCC, and maybe you've already decided to go for it. If you're still wondering if you should let me make the decision easier for you: yes, you want DCC. Unless you're planning to run one single train on a simple oval around your Christmas tree, DCC can only benefit you. And that's despite its learning curve.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>So now you're well on your way to the next question, and it is possibly one of the most asked questions by any DCC beginner, in any given forum:</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>Which digital system should I get?</strong></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Depending on location, place of discourse and other factors, the terms command station, command central, digital system or digital controller may be used interchangeably. We are talking about the device that makes your trains go. Buying one of these is something that should be considered thoroughly, as there are a multitude of options in all price classes, catering to different requirements and tastes. Navigating these options while trying to understand what you need can be all kinds of daunting.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>This question is asked in virtually any model railway related forums with unshakeable regularity, and just as regularly people will instinctively answer with a recommendation for the system they know, like and/or prefer. This is fraught with peril, as different people have different preferences. If all you ever know is a single system, you can't really know if other systems might be more suitable to what the person asking the questions wants to do. Given the different aspects above, it's hard for a beginner to know what you want or don't want to do off the bat - but you probably want to keep your options open until you can confidently make a decision.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Some people will tell you to get what your local club has, or what is most common in your market. A reason often given is that this way you'll have people who know the system and can help you with it. I sincerely invite you to studiously ignore this particular piece of advice. Seriously, disregard it, unless you're planning to spend disproportionately more time in such a club than with your own layout and setup. A club has vastly different requirements from a home layout, their layouts tend to be bigger and cater for multiple simultaneous operators. At home you'll likely be the only or at least main operator, and so you're better off buying what works for you. Few things will sour your model railway hobby more than a command station you actively dislike because it doesn't cater to your preferences.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>From my own experience, the best advice I can give you is: follow your instincts. Look around what's available. Something is bound to catch your eye, and you'll think "oh, this looks nice", or "that seems like it'll be fun to use". The <strong>best thing</strong> you can do <strong>in that moment</strong> is to home in on that option - research it, figure out the pros and cons, and if there's nothing massively speaking against it - go with it. It may be that you pick an expensive system, but going through cheaper systems one by one to figure out the hard way what you <em>don't</em> like isn't going to be much cheaper in the end. It may be that you pick a system which has a lot of features you might not use initially - that's fine, overkill is deeply underrated. And it's better to have and not need than the other way round.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>When I first looked at getting into DCC, I researched available command stations, and one option immediately jumped out at me: the ESU ECoS. It simply looked like something I wanted to use. But at the time I could neither afford it nor justify the expense. I started out with a Hornby eLink - a small computer interface included with a starter set. It had software included and got me started, but that was about it. I next got an NCE PowerCab, for the main reason that it was the most recommended system out here. As can be read <a href="https://makingtracks.ah-web.org/2019/02/17/out-with-the-old-in-with-the-new/" data-type="post" data-id="302">elsewhere</a>, that didn't last either. My next step was a black box central, the DR5000, which enabled app control. I went with that for quite some time, but due to some ongoing niggling problems as well as my increased dislike for app control, I ultimately decided to throw money at the problem and went with my original preference. And now I ask myself why I hadn't done that from the start.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>I'm not going to go and tell anyone that they should get an ECoS. It's a big upfront expense, and a pricey ecosystem to be in. Some people dislike its fixed, dashboard-like nature and prefer the freedom of movement that comes with a wireless hand-held controller. Many people like controlling their trains with an app - I personally don't, I prefer having my eye on the train and my hand on a physical control dial. Again, here is where everyone has to figure out what works for them, and sometimes it will take several attempts at that. Your first command station does not have to be your last one (but it would be great if it could be).</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>You may ask: which options should I consider? So here is a <strong>non-exhaustive</strong> list of currently available command stations that are modern and expandable, at different price levels, in no particular order (note: some of these links are in German):</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">Entry Level</h2>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p><a href="https://www.digitrax.com/products/starter-sets/dcs52/">Digitrax Zephyr Express DCS52</a><br><a href="https://www.z21.eu/en/products/z21start">Roco z21 start</a><br><a href="https://www.tcsdcc.com/about-lt-50">TCS LT-50</a><br><a href="https://uhlenbrock.de/de_DE/produkte/digizen/i1c3b5c1-001.htm!ArcEntryInfo=0004.19.i1c3b5c1">Uhlenbrock Daisy II</a><br><a href="https://www.piko.de/DE/index.php/de/piko-news/1104-piko-smartcontrol-light-flyer.html" target="_blank" rel="noreferrer noopener">Piko SmartControl</a></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">Advanced</h2>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p><a href="http://yamorc.de/products/?categories=132">YaMoRC YD7xxx series</a><br><a href="https://tams-online.de/epages/642f1858-c39b-4b7d-af86-f6a1feaca0e4.sf/de_DE/?ObjectPath=/Shops/642f1858-c39b-4b7d-af86-f6a1feaca0e4/Categories/Produkte/Digital/mc2">Tams MC2</a><br><a href="https://uhlenbrock.de/de_DE/produkte/digizen/I000C67D-001.htm!ArcEntryInfo=0004.0.I000C67D">Uhlenbrock Intellibox 2neo</a> (about to be replaced by the Intellibox 3)<br><a href="https://www.digitrax.com/products/command-stations-boosters/dcs240plus/">Digitrax DCS240</a><br><a href="https://www.tcsdcc.com/cs-105">TCS CS-105</a><br><a href="https://www.lenz-elektronik.de/digital-plus/zentrale.php">Lenz LZV200</a><br><a href="https://www.esu.eu/en/products/digital-control/cabcontrol/">ESU CabControl</a><br><a href="https://www.fichtelbahn.de/bidib_uebersicht.html" target="_blank" rel="noreferrer noopener">Fichtelbahn/BiDiB</a><br><a href="https://lokstoredigital.de/" target="_blank" rel="noreferrer noopener">Lokstoredigital</a></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:heading --></p>
 <h2 class="wp-block-heading">High End</h2>
-<p>
-<!-- /wp:heading --></p>
+<p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p><a href="https://www.esu.eu/en/products/digital-control/ecos-50210-dcc-system/what-ecos-can-do/">ESu ECoS 50220</a><br><a href="https://www.zimo.at/web2010/products/ErstinfoMX10_EN.htm">Zimo MX10</a><br><a href="https://www.z21.eu/en/products/z21">Roco Z21</a><br><a href="https://www.maerklin.de/en/products/product-information/model-train-control/central-station-3-3-plus">Märklin CS3</a></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><strong>For Tinkerers</strong></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p><a href="https://dcc-ex.com/index.html" target="_blank" rel="noreferrer noopener">DCC-EX</a></p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Once again, the best advice I can give you, that anyone should give you, is to use your guts. Figure out what you like, then go from there. If you're going to are fortunate enough to have a model train shop close by where you might be able to try out at least one or two available system, that might help, but not everyone is so lucky, and telling good shops from bad shops is another matter entirely. Your instincts are your best guide. Good luck out there, and if this wasn't enough to keep you busy for a spell, part II goes into a bit more depth and talks about what to avoid. </p>
-<p>
-<!-- /wp:paragraph --></p>
-
+<p>Once again, the best advice I can give you, that anyone should give you, is to use your guts. Figure out what you like, then go from there. If you're going to are fortunate enough to have a model train shop close by where you might be able to try out at least one or two available system, that might help, but not everyone is so lucky, and telling good shops from bad shops is another matter entirely. Your instincts are your best guide. Good luck out there, and if this wasn't enough to keep you busy for a spell, part II goes into a bit more depth and talks about what to avoid.</p>
+<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
@@ -495,254 +467,142 @@
                     <p><img src="https://alex-hempel.github.io/makingtracks/media/posts/47/kS70QGw-Imgur.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Yes, it's been a while. Again. You have my permission to chuckle. Amidst webserver woes and general life challenges I have not had the time or energy to post, much less make significant progress with my model train setup. But that doesn't mean that nothing has happened in the past two years. I've renewed my control setup, made some tweaks to make trains move more smoothly and consistently, and when nothing else helped, well, I got some new trains.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>So let's start with those, at least the latest additions (otherwise this post will take me the whole year to finish).</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>For something a bit different, a key addition to the fleet this year was the South Australian Railways 900 class. This was the first mainline diesel locomotive built in Australia for an Australian railway operator. 10 units were built between 1951 and 1953, and despite the shape, these were not license builds of American units. Instead they were designed from scratch by SAR, and equipped with motors, generators and traction motors by English Electric. The model by SDS Models leaves little to be desired, it is exquisitely detailed and the sound is lots of fun.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6735.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6735-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6736.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6736-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6739.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6739-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6740.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6740-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1272,"sizeSlug":"large","linkDestination":"media","className":"is-style-default"} --></p>
-<figure class="wp-block-image size-large is-style-default"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6735-scaled.jpg"><figure class="wp-image-1272"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6735-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6735-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6735-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6735-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6735-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6735-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6735-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:image {"id":1267,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6736-scaled.jpg"><figure class="wp-image-1267"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6736-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6736-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6736-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6736-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6736-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6736-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6736-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:image {"id":1271,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6739-scaled.jpg"><figure class="wp-image-1271"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6739-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6739-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6739-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6739-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6739-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6739-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6739-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:image {"id":1270,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6740-scaled.jpg"><figure class="wp-image-1270"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6740-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6740-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6740-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6740-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6740-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6740-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6740-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></figure>
-<p>
-<!-- /wp:gallery --></p>
+<p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>There is no rolling stock for this loco yet - SDS have announced matching passenger cars which I am waiting and saving up for.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The second significant addition is another model from SDS - the 81 Class diesel locomotive of the New South Wales State Rail Authority. I've had a hankering for the colourful original livery of these locos - nicknamed 'Candy', and the previously acquired NLBX banana vans were a great period fit as well. This loco too is nicely detailed and comes with great sound.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6852.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6852-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6853.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6853-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6854.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6854-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6856.jpg" data-size="2900x1632"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/gallery/img_6856-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1274,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6852-scaled.jpg"><figure class="wp-image-1274"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6852-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6852-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6852-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6852-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6852-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6852-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6852-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:image {"id":1269,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6853-scaled.jpg"><figure class="wp-image-1269"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6853-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6853-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6853-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6853-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6853-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6853-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6853-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:image {"id":1273,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6854-scaled.jpg"><figure class="wp-image-1273"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6854-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6854-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6854-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6854-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6854-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6854-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6854-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:image {"id":1268,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_6856-scaled.jpg"><figure class="wp-image-1268"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_6856-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6856-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6856-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6856-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6856-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6856-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_6856-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></figure>
-<p>
-<!-- /wp:gallery --></p>
+<p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>Lastly, I've finally gotten around to get loads for the RQTY container wagons I've had for quite some time now. A while ago I got a single container just to check the fit and looks, but that wasn't enough. Fun fact, Australian model manufacturer On Track Models have produced several runs of - again - period-appropriate 40ft curtain-sided containers with a variety of motifs. In one of the earlier runs there were advertising graphics of some Australian products which tickled my fancy, and even though they were largely sold out, I managed to get my hands on a few, namely the containers advertising peanut butter, Vegemite, and laundry liquid.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"attachment"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1266,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7383/"><figure class="wp-image-1266"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7383-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1266,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7383/"><figure class="wp-image-1266"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7383-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7383-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":1263,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7398/"><figure class="wp-image-1263"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7398-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7398/"><figure class="wp-image-1263"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7398-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7398-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":1265,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7399/"><figure class="wp-image-1265"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7399-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></figure>
-<p>
-<!-- /wp:gallery --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7399/"><figure class="wp-image-1265"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7399-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7399-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
+</figure>
+<p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>To fill the gaps on the 63ft container wagons, a bunch of 20ft container models from Auscision came into the fold. Yes, the overall base colour is blue, but that wasn't too much of a bother to me. Most other variations from those production runs were sold out, and new runs will take some time.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"attachment"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1262,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7401/"><figure class="wp-image-1262"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7401-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1262,"sizeSlug":"large","linkDestination":"attachment"} -->
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7401/"><figure class="wp-image-1262"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7401-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7401-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":1261,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7403/"><figure class="wp-image-1261"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7403-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7403/"><figure class="wp-image-1261"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7403-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7403-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":1260,"sizeSlug":"large","linkDestination":"attachment"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7400/"><figure class="wp-image-1260"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7400-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></figure>
-<p>
-<!-- /wp:gallery --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/img_7400/"><figure class="wp-image-1260"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7400-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7400-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
+</figure>
+<p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>And a fully loaded container train looks a bit like this.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:embed {"url":"https://makertube.net/w/nBxp2JTmaKdDgbumuvD9Sn","type":"wp-embed","providerNameSlug":"peertube"} --></p>
 <figure class="wp-block-embed is-type-wp-embed is-provider-peertube wp-block-embed-peertube">
 <div class="wp-block-embed__wrapper">
-https://makertube.net/w/nBxp2JTmaKdDgbumuvD9Sn
+<figure class="post__video"><iframe loading="lazy" width="700" height="393" style="width: 700px; height: 393px;" title="NR52 with a fully loaded container train - Model Railway" src="https://makertube.net/videos/embed/0c92a738-ab5e-475e-9f0d-d6d760d71c09" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></figure>
 </div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
+<p><!-- /wp:embed --></p>
 <p><!-- wp:paragraph --></p>
 <p>Other highlights are:</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:list --></p>
-<ul><!-- wp:list-item --></p>
-<li>A change of the control setup. I got rid of the <a href="https://makingtracks.ah-web.org/2019/02/17/out-with-the-old-in-with-the-new/" data-type="post" data-id="302">DR5000</a> and positively splurged on a completely different setup, with the ESU ECoS and its wireless Mobile Control II. The ECoS has now been in poeration for over a year and I can say I've never been happier with my controls. The form factor combining a versatile touch screen with physical speed controllers and function buttons is near perfect for me. </li>
-<p>
-<!-- /wp:list-item --></ul>
-<p>
-<!-- /wp:list --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul><!-- wp:list-item -->
+<li>A change of the control setup. I got rid of the <a href="https://alex-hempel.github.io/makingtracks/out-with-the-old-in-with-the-new/">DR5000</a> and positively splurged on a completely different setup, with the ESU ECoS and its wireless Mobile Control II. The ECoS has now been in poeration for over a year and I can say I've never been happier with my controls. The form factor combining a versatile touch screen with physical speed controllers and function buttons is near perfect for me.</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
 <p><!-- wp:image {"id":1283,"width":"672px","height":"auto","sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-1283"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7503-1024x576.jpg" alt=""  style="width:672px;height:auto" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-2xl.jpg 1600w"></figure></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-image size-large is-resized"><figure class="wp-image-1283"><img loading="lazy"  style="width: 672px; height: auto;" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7503-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7503-1024x576-2xl.jpg 1600w"></figure></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:list --></p>
-<ul><!-- wp:list-item --></p>
-<li>I've started working on signals and feedbacks. </li>
-<p>
-<!-- /wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul><!-- wp:list-item -->
+<li>I've started working on signals and feedbacks.</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
 <p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
 <li>I fixed some bad track geometry at the expense of a few extra points, but with the benefit of much more reliable train running</li>
-<p>
-<!-- /wp:list-item --></ul>
-<p>
-<!-- /wp:list --></p>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
 <p><!-- wp:paragraph --></p>
 <p>Also, as a real life highlight, I traveled on the world famous Ghan from Adelaide to Darwin. In the course of that trip I finally got to see the mighty NR class up close. Also, I visited the Adelaide Railway Museum which, among other things, exhibits one of three remaining exemplars of the 900 Class locomotive - an absolutely impressive machine.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1281,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7235-scaled.jpg"><figure class="wp-image-1281"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7235-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1281,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7235-scaled.jpg"><figure class="wp-image-1281"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7235-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7235-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":1280,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7229-scaled.jpg"><figure class="wp-image-1280"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7229-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7229-scaled.jpg"><figure class="wp-image-1280"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7229-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7229-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":1285,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7061-scaled.jpg"><figure class="wp-image-1285"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7061-576x1024.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7061-scaled.jpg"><figure class="wp-image-1285"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7061-576x1024.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7061-576x1024-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
 <p><!-- wp:image {"id":1282,"sizeSlug":"large","linkDestination":"media"} --></p>
-<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7056-1.jpg"><figure class="wp-image-1282"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7056-1-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-2xl.jpg 1600w"></figure></a></figure>
-<p>
-<!-- /wp:image --></figure>
-<p>
-<!-- /wp:gallery --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2025/01/img_7056-1.jpg"><figure class="wp-image-1282"><img loading="lazy"  src="https://alex-hempel.github.io/makingtracks/media/posts/47/img_7056-1-1024x576.jpg" alt="" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/47/responsive/img_7056-1-1024x576-2xl.jpg 1600w"></figure></a></figure>
+<p><!-- /wp:image --></p>
+</figure>
+<p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
 <p>As for future plans, I mainly want to spend more time in the train room. I've gained some momentum over the holidays and completed some experiments that will help me move forward with signals and feedback automation. Landscaping is pretty high on the list too, but that will be very slow and steady. The static grass applicator is already on the shelf.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>As far as this blog goes, there will also be some necessary changes. I've already moved my video hosting to Peertube (still using Youtube as a backup) and am going to link to those videos going forward. The blog backend itself will also change. Wordpress has gone all in on generative AI, which I personally abhor and don't want anywhere near my texts and media. As I am self-hosting now, I have more control and flexibility, so I will be trying out some alternative options soon. If this site looks completely different some day soon, you know what happened.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Lastly, of course, there will be more trains. And I'll close this post with a quick clip of two of my favourite freight trains: the container train and the banana train.</p>
-<p>
-<!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
 <p><!-- wp:embed {"url":"https://makertube.net/w/16JXHxhTtBMu7UX8Hc8PHW","type":"wp-embed","providerNameSlug":"peertube"} --></p>
 <figure class="wp-block-embed is-type-wp-embed is-provider-peertube wp-block-embed-peertube">
-<div class="wp-block-embed__wrapper">
-https://makertube.net/w/16JXHxhTtBMu7UX8Hc8PHW
-</div>
+<div class="wp-block-embed__wrapper">https://makertube.net/w/16JXHxhTtBMu7UX8Hc8PHW</div>
 </figure>
-<p>
-<!-- /wp:embed --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>2023 was a Good Year for Rolling Stock</title>
-        <author>
-            <name>Alex</name>
-        </author>
-        <link href="https://alex-hempel.github.io/makingtracks/2023-was-a-good-year-for-rolling-stock/"/>
-        <id>https://alex-hempel.github.io/makingtracks/2023-was-a-good-year-for-rolling-stock/</id>
-
-        <updated>2025-01-02T17:20:13+10:00</updated>
-            <summary>
-                <![CDATA[
-                    Another year has passed, and it another year year in which this blog hasn't a lot of action. That doesn't mean that nothing&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Another year has passed, and it another year year in which this blog hasn't a lot of action. That doesn't mean that nothing has happened in the 24 square metres of the train room, but it was mostly small additions and experiments. Lack of time and energy has prevented major developments. </p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The single biggest development is possibly the completion of the branch line, which traverses an incline to a second layer sitting about 25cm above the main layer, looping around what is intended to be a small village, surrounded by farm lands. This piece of track has been built, wired and tested successfully. It is mainly aimed at two railcar models I own, longer trains will not travel on this branch line.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The other major development is a replacement of the command station and some adjacent accessories. Nearly five years ago I acquired a <a href="https://makingtracks.ah-web.org/2019/02/17/out-with-the-old-in-with-the-new/">Digikeijs DR5000</a> to replace the suboptimal NCE PowerCab I was using at the time. That command station has served me well, but during the last year two issues arose. One was that the manufacturer went insolvent and left the market, ending direct support for the command station. That was mitigated to a degree by YaMoRC, a new company founded by the original designer of the DR5000 (and other Digikeijs products). YaMoRC are developing a series of products quite similar to what Digikeijs was offering, but more modern and with ongoing, direct support. They sold a module which allowed an upgrade of the DR5000 and enabled it to use YaMoRC firmware. So far so good, I actually acquired one of those modules and successfully upgraded my command station. </p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>But amidst some ongoing niggles I had with the setup, like flaky WiFi and somewhat unreliable controls, I got to the point where I realised that I wanted to move on from the DR5000. More importantly, I wanted to move on from app control, which was never really that enjoyable for me, and towards something more haptic. The thing about app control is that when you're setting speed and selecting functions, your eyes are on the app, not the train. Sure, I could have gotten one of the many physical controllers that are compatible with the DR5000, but the prospect didn't quite satisfy me, since I would still have to have a laptop next to it to control points and accessories. My ideal solution was a bit more of an all-in-one setup. Most of all, I wanted a nice, big, physical, easy-to-reach STOP button to quickly avert the odd disaster I seem to be prone to causing.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Ultimately the DR5000 was replaced by an ESU ECoS 50210. I won't go into too much detail here - a lot has been written about this command station - but its combination of physical controls and touch screen is pretty much what I envisioned for a hassle-free, easy-to-use control setup, that can still be complemented with software for more advanced automation and such. The rotary controllers on the ECoS are fantastic, I've never enjoyed just running trains as much as with this station. Let's see if it lasts longer than five year with me...</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Most of all, 2023 was a good year for rolling stock. We acquired some very nice additions to the fleet, which I will list in a bit more detail below.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The first acquisition of the year was a rake of container wagons, to match the NR class loco we've had for a while. I got two sets of RQTY wagons produced by SDS Models, in two different liveries: blue-orange for the National Rail SeaTrain livery with which these wagons were used for traffic between Sydney and Brisbane. The other livery is the later yellow-grey livery of Pacific National, the successor of National Rail. I can rationalise the mix of liveries - National Rail was privatised in 2002, but NR52 had its old National Rail livery until at least 2007, so it is perfectly plausible that there may have been a mix of liveries among the rolling stock as well.We still need loads for these wagons, but it will all happen in good time.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>I ended up bringing home a few things from a mid-year trip to Germany. One of them was the measuring wagon from Piko, a pretty nifty gadget which allows you to measure speed, distances, track voltage, incline grades and more. The main use case for this one is to calibrate locomotive speeds, i.e. determine which speed step corresponds to which scale speed. This is important for layout automation software, which does its calculations based on exactly these data.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>From a model train exchange in Germany I picked up a set of Interregio wagons. These are still older models in 1:100 length scale, but they're nice enough, and since I already had a matching carriage in my fleet, so now there's a nice train of five carriages. The previous owner installed interior lights in some of the carriages as well as red rear lights in one. That looks quite nice but obviously I need to do a bit more work to make all carriages light up.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>From the same exchange I grabbed two more Schicht carriages. I am a big fan of these models which were made in East Germany, and which don't show their age if treated well. These two Bme 2nd class carriages are in very good condition and still have working interior lights. A bit later, after my return, I picked up another Schicht carriage from an Australian seller, an Ame 1st Class coach in absolutely pristine condition. These carriages will definitely run on my layout, but I have some work planned for them, like replacing the couplers and interior lights.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The last catch from the Germany trip was the RegioShuttle from Roco in Vogtlandbahn livery. I traveled on the actual train twice, so I couldn't resist when I saw the model in the shops. </p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>While in Germany, I visited a train festival at which I got up close to a preserved and running BR 120. Originally built for Deutsche Reichsbahn from the late 1960s, a few of these heavy Diesel locomotives have been picked up by private operators and non-profit associations for the purpose of preservation and restoration. Seeing this piece of railway so closely left a bit of an impression, and when a few weeks later an exemplar of the Piko model appeared on eBay, I jumped on it. This model is a great runner, like all Piko locos I have, and I'm really glad I got it.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The last acquisition for the year was something a bit more unusual for us. With two exceptions, all our models are diesel locomotives and railcars. However, later in the year I came across a second hand offering that was hard to resist. It was a model of a BR 011 steam locomotive of Deutsche Bundesbahn, second hand but in pristine condition, and already equipped with a DCC decoder. By good coincidence I had some carriages in my fleet that matched the era and purpose of this particular locomotive, so this was an easy purchase. I did not have large steam on my radar but sometimes that's how the chips fall...</p>
-<p>
-<!-- /wp:paragraph --></p>
-
+<p><!-- /wp:embed --></p>
             ]]>
         </content>
     </entry>
@@ -1201,6 +1061,97 @@ https://youtu.be/5_KWLUTI73k
 </figure>
 <p>
 <!-- /wp:embed --></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Building a Programming Box, Part 2</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://alex-hempel.github.io/makingtracks/building-a-programming-box-part-2/"/>
+        <id>https://alex-hempel.github.io/makingtracks/building-a-programming-box-part-2/</id>
+        <media:content url="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5313-scaled.jpg" medium="image" />
+
+        <updated>2022-11-08T08:26:16+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5313-scaled.jpg" alt="" />
+                    Truth be told... the Mk1 of the programming box was always more of a proof-of-concept than an actually usable thing. It was used&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5313-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:paragraph --></p>
+<p>Truth be told... the Mk1 of the programming box was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement. I had a few things in mind for making this contraption better, but my main pain point were the wires. They just <em>had</em> to be concealed somehow, everything else was just too ugly.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Initial attempts at creating a raised cover for the wires in the existing box were not successful. The box is just too flat to do anything meaningful, the space constraints meant that there was not enough room for the switches and connectors, and I even ended up breaking a few things. I contemplated getting a different box with the appropriate dimensions, but it wasn't a high priority, and with a slim budget there was always something else that was more urgently needed. So I kept putting off the improvements, while not using the box at all.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Until I came across another wooden box of the same kind. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Having two of those boxes gave me an idea. What if I could turn two into one? I initially thought about dismantling and reassembling the two boxes into one deeper box, in which I could then create an intermediate layer. But ultimately that seemed too complicated. I settled on a variant where I simply bolted both boxes together to form a double-lidded box. The top part contained the devices and test track as before, the bottom part was used to conceal the wires.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>As for the wiring, I also moved away from my original idea of using plugs and sockets to create the required connection between programming devices, track, or decoder tester. What I started envisioning over time was this: I wanted to be able to plug power into the box, then switch on the combination of devices required for the specific task, put the loco or decoder on the track or tester, and perform the work. Power-wise, this was not a problem, because the Arduino motorshield can be powered from the same power supply as the LokProgrammer (the Arduino itself still needs USB power). My biggest concern with this setup was the remote possibility of accidentally creating a power loop and frying an expensive device.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I acquired three DPDT switches with a centre-off position. These switches are quite big and heavy. I also added a power jack matching the ESU power supply, and a LED to indicate that the box has power. The power jack is wired into the centre position of the leftmost switch, LokProgrammer and Arduino each into one of the On positions. The middle switch is the track-out, with both devices again wired into one of the On positions, and a set of wires going across to the third switch, which is also wired into the track and the decoder tester. I verified the correct power flow using a small lightbulb with a wired socket - a great little tool to have around for all kinds of quick tests. These bulbs are used for lighting up model buildings and are specified for 12-16V. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Once I was happy with the switches and wiring, I connected up all the devices and tested carefully. Everything worked as expected, which surprised even me. Now I have an easy way to program and test new decoders and locomotives, it's quick to set up and pleasant to use. I still have to connect each device to USB individually, but that's not a big worry. On the Arduino Motorshield, I only have the programming output wired into the track-out. If I need to test something on this device, I can send the command "&lt;1 JOIN&gt;" to make it temporarily provide main power on the programming output. That helpful advice given to me by someone on a German model railway forum saved me from wiring in yet another switch.</p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Overall, I am quite happy with Mk2 of this project. </p>
+<p>
+<!-- /wp:paragraph --></p>
+<p><!-- wp:gallery {"linkTo":"media"} --></p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1070,"sizeSlug":"large","linkDestination":"media"} --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2022/11/img_5317-scaled.jpg"><figure class="wp-image-1070"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5317-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5317-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5317-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5317-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5317-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5317-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5317-1024x576-2xl.jpg 1600w"></figure></a>
+<figcaption class="wp-element-caption">Double box, closed...</figcaption>
+</figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:image {"id":1068,"sizeSlug":"large","linkDestination":"media"} --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2022/11/img_5314-scaled.jpg"><figure class="wp-image-1068"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5314-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5314-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5314-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5314-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5314-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5314-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5314-1024x576-2xl.jpg 1600w"></figure></a>
+<figcaption class="wp-element-caption">and open, with conceiled wiring.</figcaption>
+</figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:image {"id":1066,"sizeSlug":"large","linkDestination":"media"} --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2022/11/img_5313-scaled.jpg"><figure class="wp-image-1066"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5313-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5313-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5313-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5313-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5313-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5313-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5313-1024x576-2xl.jpg 1600w"></figure></a>
+<figcaption class="wp-element-caption">All devices and targets</figcaption>
+</figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:image {"id":1067,"sizeSlug":"large","linkDestination":"media"} --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2022/11/img_5315-scaled.jpg"><figure class="wp-image-1067"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5315-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5315-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5315-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5315-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5315-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5315-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5315-1024x576-2xl.jpg 1600w"></figure></a>
+<figcaption class="wp-element-caption">The switch to the left puts power onto either the LokProgrammer or the Arduino. The switch on the right puts power from either device onto the track-out.</figcaption>
+</figure>
+<p>
+<!-- /wp:image --></p>
+<p><!-- wp:image {"id":1069,"sizeSlug":"large","linkDestination":"media"} --></p>
+<figure class="wp-block-image size-large"><a href="https://makingtracks.ah-web.org/wp-content/uploads/2022/11/img_5316-scaled.jpg"><figure class="wp-image-1069"><img loading="lazy" src="https://alex-hempel.github.io/makingtracks/media/posts/43/img_5316-1024x576.jpg" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5316-1024x576-xs.jpg 300w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5316-1024x576-sm.jpg 480w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5316-1024x576-md.jpg 768w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5316-1024x576-lg.jpg 1024w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5316-1024x576-xl.jpg 1360w ,https://alex-hempel.github.io/makingtracks/media/posts/43/responsive/img_5316-1024x576-2xl.jpg 1600w"></figure></a>
+<figcaption class="wp-element-caption">The last switch sets the track-out to go either to the track, or the decoder tester.</figcaption>
+</figure>
+<p>
+<!-- /wp:image --></figure>
+<p>
+<!-- /wp:gallery --></p>
+<p><!-- wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph --></p>
 
             ]]>
         </content>
