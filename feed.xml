@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Making Tracks</title>
-    <link href="https://makingtrackstest.ah-web.org/feed.xml" rel="self" />
-    <link href="https://makingtrackstest.ah-web.org" />
+    <link href="https://makingtracks-e35c23.gitlab.io/feed.xml" rel="self" />
+    <link href="https://makingtracks-e35c23.gitlab.io" />
     <updated>2025-01-21T19:43:38+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
-    <id>https://makingtrackstest.ah-web.org</id>
+    <id>https://makingtracks-e35c23.gitlab.io</id>
 
     <entry>
         <title>Some things are worth collecting</title>
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/some-things-are-worth-collecting/"/>
-        <id>https://makingtrackstest.ah-web.org/some-things-are-worth-collecting/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/52/IMG_6212-scaled.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/some-things-are-worth-collecting/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/some-things-are-worth-collecting/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/52/IMG_6212-scaled.jpg" medium="image" />
 
         <updated>2025-01-12T19:45:49+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/52/IMG_6212-scaled.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/52/IMG_6212-scaled.jpg" alt="" />
                     <p><!-- wp:paragraph --></p>
 <p>It has been five years since, in a quest to assemble a specific train, I acquired a model of an East German dining car in the then typical red Mitropa livery. At the time, I didn't really know what I had bought - only that the model had been produced in the GDR. But I was surprised at the condition of the model and the still working interior lighting. Subsequently I learned a bit more about the providence of it.</p>
 
@@ -29,7 +29,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/52/IMG_6212-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/52/IMG_6212-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>It has been five years since, in a quest to assemble a specific train, I acquired a model of an East German dining car in the then typical red Mitropa livery. At the time, I didn't really know what I had bought - only that the model had been produced in the GDR. But I was surprised at the condition of the model and the still working interior lighting. Subsequently I learned a bit more about the providence of it.</p>
 
@@ -51,7 +51,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":1365,"sizeSlug":"large","linkDestination":"media"} --></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6212-scaled.jpg" data-size="2560x1440"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6212-scaled-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6212-scaled.jpg" data-size="2560x1440"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6212-scaled-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Schicht WR 4g Dining Car of the Mitropa</figcaption>
 </figure>
 </div></div>
@@ -59,16 +59,16 @@
 <p><!-- wp:paragraph --></p>
 <p>Some time later I bought small lot of these models from an Australian seller, all passenger cars of the Deutsche Reichsbahn (DR). At the time I didn't know everything I know now, so these carriages are in very mixed condition. Most buffers and a few of the steps are missing, but at least all the models were clean. There is a good chance I may use the postal car in a train composition, but the rest will live on the shelf. The second dining carriage will probably only serve as a spares donor.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6215.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6215-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6215.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6215-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>DR 1st Class Passenger Car Type Ame</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6216.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6216-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6216.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6216-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>DR 2nd Class Passenger Car Type Bme</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6218.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6218-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6218.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6218-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>DR Postal Car Type m</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6221.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6221-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6221.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6221-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>DR Dining Car Type WRge</figcaption>
 </figure>
 </div></div>
@@ -80,7 +80,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":1370,"sizeSlug":"large","linkDestination":"media"} --></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6223.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6223-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6223.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6223-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>DR 1st/2nd Class Passenger Car ABme</figcaption>
 </figure>
 </div></div>
@@ -88,10 +88,10 @@
 <p><!-- wp:paragraph --></p>
 <p>One might think that's all one is able to get, considering these models are well over 40 years old and would at some point have been shipped halfway across the world. But I would soon learn otherwise. The next local find was two carriages of former Czechoslovak state railway operator CSD, both in very good condition, clean and with all parts present. Looking at these models you'd hardly believe they were made in the 1970s. Both of these will definitely run in a train.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6225.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6225-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6225.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6225-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>CSD Couchette Car type Bac</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6227.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6227-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6227.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6227-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>CSD Sleeping Car Type WLAB</figcaption>
 </figure>
 </div></div>
@@ -101,10 +101,10 @@
 <p><!-- wp:paragraph --></p>
 <p>And then, on a trip to Germany, I picked up two more Bme cars from a model railway exchange. Again these were in great condition with working lights and no breakage - much better than the first Bme I got. Which again makes them prime candidates for active duty.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6228.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6228-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6228.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6228-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>These two carriages</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6230.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6230-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6230.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6230-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>are not the same</figcaption>
 </figure>
 </div></div>
@@ -117,7 +117,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":1375,"sizeSlug":"large","linkDestination":"media"} --></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6233.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/IMG_6233-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6233.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/IMG_6233-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>The most pristine Schicht model I ever bought</figcaption>
 </figure>
 </div></div>
@@ -127,7 +127,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":1327,"sizeSlug":"large","linkDestination":"media"} --></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/52/gallery/img_7524.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/52/gallery/img_7524-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/img_7524.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/52/gallery/img_7524-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>CSD Dining Car</figcaption>
 </figure>
 </div></div>
@@ -143,14 +143,14 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/fun-with-signals/"/>
-        <id>https://makingtrackstest.ah-web.org/fun-with-signals/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/48/img_7530-scaled.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/fun-with-signals/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/fun-with-signals/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/48/img_7530-scaled.jpg" medium="image" />
 
         <updated>2025-01-06T10:03:14+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/48/img_7530-scaled.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/48/img_7530-scaled.jpg" alt="" />
                     <p><!-- wp:paragraph --></p>
 <p>Some time ago I took delivery of my first batch of signals. These are generic 3-light signals made in China. They aren't particularly prototypical - the aspects resemble a type of signal used here in Queensland, as well as some European signals. But the looks are very basic. However, for first experiments and wrapping my head around the subject matter, they are more than sufficient.</p>
 
@@ -158,7 +158,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/48/img_7530-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/48/img_7530-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Some time ago I took delivery of my first batch of signals. These are generic 3-light signals made in China. They aren't particularly prototypical - the aspects resemble a type of signal used here in Queensland, as well as some European signals. But the looks are very basic. However, for first experiments and wrapping my head around the subject matter, they are more than sufficient.</p>
 
@@ -246,21 +246,21 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/the-possibly-most-asked-question-by-dcc-beginners-pt-ii-what-to-avoid-doing/"/>
-        <id>https://makingtrackstest.ah-web.org/the-possibly-most-asked-question-by-dcc-beginners-pt-ii-what-to-avoid-doing/</id>
+        <link href="https://makingtracks-e35c23.gitlab.io/the-possibly-most-asked-question-by-dcc-beginners-pt-ii-what-to-avoid-doing/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/the-possibly-most-asked-question-by-dcc-beginners-pt-ii-what-to-avoid-doing/</id>
 
         <updated>2025-01-03T22:27:08+10:00</updated>
             <summary>
                 <![CDATA[
                     <p><!-- wp:paragraph --></p>
-<p>If you made it here from <a href="https://makingtrackstest.ah-web.org/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/">Pt I</a>, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
+<p>If you made it here from <a href="https://makingtracks-e35c23.gitlab.io/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/">Pt I</a>, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
-<p>If you made it here from <a href="https://makingtrackstest.ah-web.org/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/">Pt I</a>, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
+<p>If you made it here from <a href="https://makingtracks-e35c23.gitlab.io/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/">Pt I</a>, and are willing to hear me out a bit more, let's talk about a few things to avoid. And by 'things', I am mainly referring to certain brands that are likely to be mentioned and recommended when someone asks the aforementioned question.</p>
 
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -377,8 +377,8 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/"/>
-        <id>https://makingtrackstest.ah-web.org/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/</id>
+        <link href="https://makingtracks-e35c23.gitlab.io/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/the-possibly-most-asked-question-by-dcc-beginners-pt-i-an-attempt-at-answering-it/</id>
 
         <updated>2025-01-03T22:24:30+10:00</updated>
             <summary>
@@ -459,20 +459,20 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/past-highlights-and-future-plans/"/>
-        <id>https://makingtrackstest.ah-web.org/past-highlights-and-future-plans/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/47/kS70QGw-Imgur.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/past-highlights-and-future-plans/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/past-highlights-and-future-plans/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/47/kS70QGw-Imgur.jpg" medium="image" />
 
         <updated>2025-01-02T19:57:15+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/47/kS70QGw-Imgur.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/47/kS70QGw-Imgur.jpg" alt="" />
                     Yes, it's been a while. Again. You have my permission to chuckle. Amidst webserver woes and general life challenges I have not had&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/47/kS70QGw-Imgur.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/47/kS70QGw-Imgur.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Yes, it's been a while. Again. You have my permission to chuckle. Amidst webserver woes and general life challenges I have not had the time or energy to post, much less make significant progress with my model train setup. But that doesn't mean that nothing has happened in the past two years. I've renewed my control setup, made some tweaks to make trains move more smoothly and consistently, and when nothing else helped, well, I got some new trains.</p>
 <p><!-- /wp:paragraph --></p>
@@ -482,10 +482,10 @@
 <p><!-- wp:paragraph --></p>
 <p>For something a bit different, a key addition to the fleet this year was the South Australian Railways 900 class. This was the first mainline diesel locomotive built in Australia for an Australian railway operator. 10 units were built between 1951 and 1953, and despite the shape, these were not license builds of American units. Instead they were designed from scratch by SAR, and equipped with motors, generators and traction motors by English Electric. The model by SDS Models leaves little to be desired, it is exquisitely detailed and the sound is lots of fun.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6735.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6735-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6736.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6736-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6739.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6739-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6740.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6740-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6735.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6735-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6736.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6736-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6739.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6739-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6740.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6740-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
@@ -496,10 +496,10 @@
 <p><!-- wp:paragraph --></p>
 <p>The second significant addition is another model from SDS - the 81 Class diesel locomotive of the New South Wales State Rail Authority. I've had a hankering for the colourful original livery of these locos - nicknamed 'Candy', and the previously acquired NLBX banana vans were a great period fit as well. This loco too is nicely detailed and comes with great sound.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6852.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6852-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6853.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6853-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6854.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6854-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6856.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_6856-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6852.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6852-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6853.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6853-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6854.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6854-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6856.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_6856-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
@@ -507,9 +507,9 @@
 <p><!-- wp:paragraph --></p>
 <p>Lastly, I've finally gotten around to get loads for the RQTY container wagons I've had for quite some time now. A while ago I got a single container just to check the fit and looks, but that wasn't enough. Fun fact, Australian model manufacturer On Track Models have produced several runs of - again - period-appropriate 40ft curtain-sided containers with a variety of motifs. In one of the earlier runs there were advertising graphics of some Australian products which tickled my fancy, and even though they were largely sold out, I managed to get my hands on a few, namely the containers advertising peanut butter, Vegemite, and laundry liquid.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7383.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7383-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7398.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7398-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7399.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7399-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7383.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7383-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7398.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7398-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7399.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7399-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"attachment"} --></p>
@@ -517,13 +517,13 @@
 <p><!-- wp:paragraph --></p>
 <p>To fill the gaps on the 63ft container wagons, a bunch of 20ft container models from Auscision came into the fold. Yes, the overall base colour is blue, but that wasn't too much of a bother to me. Most other variations from those production runs were sold out, and new runs will take some time.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7400.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7400-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7400.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7400-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>20ft container with side doors</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7401.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7401-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7401.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7401-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>20ft container with roof hatch</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7403.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7403-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7403.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7403-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>20ft container with end doors</figcaption>
 </figure>
 </div></div>
@@ -547,9 +547,9 @@
 <ul>
 <li style="list-style-type: none;">
 <ul><!-- wp:list-item -->
-<li>A change of the control setup. I got rid of the <a href="https://makingtrackstest.ah-web.org/out-with-the-old-in-with-the-new/">DR5000</a> and positively splurged on a completely different setup, with the ESU ECoS and its wireless Mobile Control II. The ECoS has now been in poeration for over a year and I can say I've never been happier with my controls. The form factor combining a versatile touch screen with physical speed controllers and function buttons is near perfect for me.<br>
+<li>A change of the control setup. I got rid of the <a href="https://makingtracks-e35c23.gitlab.io/out-with-the-old-in-with-the-new/">DR5000</a> and positively splurged on a completely different setup, with the ESU ECoS and its wireless Mobile Control II. The ECoS has now been in poeration for over a year and I can say I've never been happier with my controls. The form factor combining a versatile touch screen with physical speed controllers and function buttons is near perfect for me.<br>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7503.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7503-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7503.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7503-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 </li>
 </ul>
@@ -581,10 +581,10 @@
 <p><!-- wp:paragraph --></p>
 <p>Also, as a real life highlight, I travelled on the world famous Ghan from Adelaide to Darwin. In the course of that trip I finally got to see the mighty NR class up close. Also, I visited the Adelaide Railway Museum which, among other things, exhibits one of three remaining exemplars of the 900 Class locomotive - an absolutely impressive machine.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7235.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7235-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7229.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7229-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7059.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7059-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7056-1.jpg" data-size="2425x1364"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/47/gallery/img_7056-1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7235.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7235-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7229.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7229-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7059.jpg" data-size="2900x1632"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7059-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7056-1.jpg" data-size="2425x1364"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/47/gallery/img_7056-1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
@@ -611,20 +611,20 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/point-motor-shoot-out-servo-and-volley/"/>
-        <id>https://makingtrackstest.ah-web.org/point-motor-shoot-out-servo-and-volley/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/42/img_5575-scaled.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/point-motor-shoot-out-servo-and-volley/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/point-motor-shoot-out-servo-and-volley/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/42/img_5575-scaled.jpg" medium="image" />
 
         <updated>2023-01-22T20:03:30+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/42/img_5575-scaled.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/42/img_5575-scaled.jpg" alt="" />
                     Well over two years ago, I wrote about the conclusion of my quest to find point motors. At the time, the Cobalt motors&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/42/img_5575-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/42/img_5575-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Well over two years ago, I wrote about the <a href="https://makingtracks.ah-web.org/2019/02/17/point-motor-shoot-out-final/" data-type="post" data-id="307">conclusion of my quest to find point motors</a>. At the time, the Cobalt motors became the solution of choice. But of course, that couldn't have been the end of it.</p>
 <p><!-- /wp:paragraph --></p>
@@ -649,25 +649,25 @@
 <p><!-- wp:paragraph --></p>
 <p>As far as the throw wires are concerned, a number of different opinions can be found. The Cobalt motors use piano wire or spring steel wire, and some people recommend using the same for servos. These throw wires have a bit of flexibility and therefore exert more force on the tie bar, keeping the blades securely in their end position. Others say that it is sufficient to use regular steel or even brass wire, as long as it is stiff enough. For starters, I decided to experiment with straightened paper clips - that kind of steel wire is not springy, but easy enough to bend into shape.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5575.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5575-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5575.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5575-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>All the parts needed for a servo-based point motor: the servo itself, throwing arms, a mount, and the paper clip for the throwing wire</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5576.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5576-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5576.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5576-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>The SG90 in its mount</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5584.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5584-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5584.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5584-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>The DCCNext decoder, fully assembled…</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5582.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5582-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5582.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5582-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>And a peek under the hood</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5577.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5577-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5577.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5577-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>The centring aid, made from a 10mm wall anchor and a push pin</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5578.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5578-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5578.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5578-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Two servos fully installed</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5579.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/42/gallery/img_5579-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5579.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/42/gallery/img_5579-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>A closer look</figcaption>
 </figure>
 </div></div>
@@ -699,20 +699,20 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/2022-in-retrospect/"/>
-        <id>https://makingtrackstest.ah-web.org/2022-in-retrospect/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/46/img_5561-scaled.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/2022-in-retrospect/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/2022-in-retrospect/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/46/img_5561-scaled.jpg" medium="image" />
 
         <updated>2023-01-16T11:13:49+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/46/img_5561-scaled.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/46/img_5561-scaled.jpg" alt="" />
                     Another year has gone by, and while this blog was offline for part of it, sufficient things have happened in the train room&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/46/img_5561-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/46/img_5561-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Another year has gone by, and while this blog was offline for part of it, sufficient things have happened in the train room this year. The layout has made progress to the point where we can at least run trains, and there have been a fair few rolling stock additions.</p>
 <p><!-- /wp:paragraph --></p>
@@ -722,7 +722,7 @@
 <p><!-- wp:paragraph --></p>
 <p>The first addition of the year (<a rel="noreferrer noopener" href="https://makingtracks.ah-web.org/2022/02/03/a-late-2021-retrospective/" data-type="post" data-id="924" target="_blank">not counting the BR 220 which was a 2021 Christmas present but arrived late</a>) was a set of four passenger carriages of the type Y/B, as operated by Deutsche Reichsbahn in the 1980s. These carriages were a perfect fit for my BR 132, and they were so cheap that I could not walk past them. The set of 3, consisting of a 1st class carriage, a mixed class carriage and a 2nd class carriage (with sleeper compartment), would have cost over $300 Australian. The extra carriage is a somewhat rare Salon car which would have been used in charter trains and other special consists, not something you would have seen regularly. I got all four carriages for $150, which was an absolute bargain considering they were basically new.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_4912.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_4912-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_4912.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_4912-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Rivarossi Y/B passenger carriages of Deutsche Reichsbahn</figcaption>
 </figure>
 </div></div>
@@ -735,22 +735,22 @@
 <p><!-- wp:paragraph --></p>
 <p>The final addition for the year was another somewhat exotic selection. In the mid 1990s, a class of louvre vans was constructed specifically for the transport of bananas in New South Wales. These wagons, called NLBX, were in service with the now defunct Banana Grower's Federation. While not a lot of information can be found online, it appears certain that they could be found in several colours, and no two vans looked completely alike, as there were differences in signage and lines. These vans were produced as H0 models by On Track Models, and I managed to rustle up two of the last sets still available in the wild. They look great, and among the six wagons out of two sets, no two look alike.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5542.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5542-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5542.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5542-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>NLBX 29428 with the BGF logo and the banana advertising. Yellow line at the bottom only</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5537.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5537-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5537.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5537-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>NLBX 31370, both signs, yellow line all around</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5541.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5541-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5541.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5541-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>NLBX 29462, no signs, yellow line at bottom</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5538.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5538-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5538.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5538-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>NLBX 31372, BGF logo, yellow line at bottom</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5539.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5539-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5539.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5539-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>NLBX 31477, yellow line with brake handle marker, no signs</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5540.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5540-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5540.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5540-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>NLBX 29452, banana advertising, yellow line all around</figcaption>
 </figure>
 </div></div>
@@ -769,18 +769,18 @@
 <p>That's 2022 as far as rolling stock acquisitions are concerned. But what else has happened?</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Of the planned layout, the track for the base layer has been laid and wired up. This can now run trains. They're going in a loop, until the storage layer has been built and a traversal added. I have started operating the points with servos - this will be subject of a separate post soon. The <a href="https://makingtrackstest.ah-web.org/building-a-programming-box-part-2/">programming box</a> has been upgraded to a point where it's really usable.</p>
+<p>Of the planned layout, the track for the base layer has been laid and wired up. This can now run trains. They're going in a loop, until the storage layer has been built and a traversal added. I have started operating the points with servos - this will be subject of a separate post soon. The <a href="https://makingtracks-e35c23.gitlab.io/building-a-programming-box-part-2/">programming box</a> has been upgraded to a point where it's really usable.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Lastly, there were two mini projects I completed last year on the spur of a moment - mini, because neither took very long. One was the addition of a collapsible shelf to the end of the middle section. This shelf is used as a space to put the laptop which is used to operate the train control software. It can also serve as a small workspace for impromptu work. For this purpose, a set of locking hinges was used. Pictures are below.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5225.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5225-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5225.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5225-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Collapsed</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5226.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5226-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5226.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5226-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Lifted</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5256.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5256-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5256.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/46/gallery/img_5256-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>In Use</figcaption>
 </figure>
 </div></div>
@@ -801,20 +801,20 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/trainspotting-grandchester-double-feature/"/>
-        <id>https://makingtrackstest.ah-web.org/trainspotting-grandchester-double-feature/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/45/frame.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/trainspotting-grandchester-double-feature/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/trainspotting-grandchester-double-feature/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/45/frame.jpg" medium="image" />
 
         <updated>2022-12-04T16:23:34+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/45/frame.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/45/frame.jpg" alt="" />
                     Today I caught two trains coming through Grandchester in opposite directions. 2315D and 2309D pulled into Grandchester station waiting for a green signal.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/45/frame.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/45/frame.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <figure class="post__video"></figure>
 <p>Today I caught two trains coming through Grandchester in opposite directions. 2315D and 2309D pulled into Grandchester station waiting for a green signal. The dual track merges into a single track at this point. At the same time, 2308D and 2321D were on their way down from the Little Liverpool Range with a full load of coal.</p>
@@ -832,20 +832,20 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/trainspotting-aurizon-2388d-and-2313d/"/>
-        <id>https://makingtrackstest.ah-web.org/trainspotting-aurizon-2388d-and-2313d/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/44/frame.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/trainspotting-aurizon-2388d-and-2313d/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/trainspotting-aurizon-2388d-and-2313d/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/44/frame.jpg" medium="image" />
 
         <updated>2022-11-20T16:02:44+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/44/frame.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/44/frame.jpg" alt="" />
                     Today, I caught Aurizon's 2388D and 2313D coming through Grandchester with an empty coal train. The voiceover is from my daughter, who delights&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/44/frame.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/44/frame.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Today, I caught Aurizon's 2388D and 2313D coming through Grandchester with an empty coal train.</p>
 <p><!-- /wp:paragraph --></p>
@@ -865,22 +865,22 @@
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://makingtrackstest.ah-web.org/building-a-programming-box-part-2/"/>
-        <id>https://makingtrackstest.ah-web.org/building-a-programming-box-part-2/</id>
-        <media:content url="https://makingtrackstest.ah-web.org/media/posts/43/img_5313-scaled.jpg" medium="image" />
+        <link href="https://makingtracks-e35c23.gitlab.io/building-a-programming-box-part-2/"/>
+        <id>https://makingtracks-e35c23.gitlab.io/building-a-programming-box-part-2/</id>
+        <media:content url="https://makingtracks-e35c23.gitlab.io/media/posts/43/img_5313-scaled.jpg" medium="image" />
 
         <updated>2022-11-08T08:26:16+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://makingtrackstest.ah-web.org/media/posts/43/img_5313-scaled.jpg" alt="" />
+                        <img src="https://makingtracks-e35c23.gitlab.io/media/posts/43/img_5313-scaled.jpg" alt="" />
                     Truth be told... the Mk1 of the programming box was always more of a proof-of-concept than an actually usable thing. It was used&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://makingtrackstest.ah-web.org/media/posts/43/img_5313-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://makingtracks-e35c23.gitlab.io/media/posts/43/img_5313-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
-<p>Truth be told... the <a href="https://makingtrackstest.ah-web.org/building-a-programming-box-part-i/">Mk1 of the programming box</a> was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement. I had a few things in mind for making this contraption better, but my main pain point were the wires. They just <em>had</em> to be concealed somehow, everything else was just too ugly.</p>
+<p>Truth be told... the <a href="https://makingtracks-e35c23.gitlab.io/building-a-programming-box-part-i/">Mk1 of the programming box</a> was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement. I had a few things in mind for making this contraption better, but my main pain point were the wires. They just <em>had</em> to be concealed somehow, everything else was just too ugly.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Initial attempts at creating a raised cover for the wires in the existing box were not successful. The box is just too flat to do anything meaningful, the space constraints meant that there was not enough room for the switches and connectors, and I even ended up breaking a few things. I contemplated getting a different box with the appropriate dimensions, but it wasn't a high priority, and with a slim budget there was always something else that was more urgently needed. So I kept putting off the improvements, while not using the box at all.</p>
@@ -903,19 +903,19 @@
 <p><!-- wp:paragraph --></p>
 <p>Overall, I am quite happy with Mk2 of this project.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5317.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5317-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5317.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5317-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>Double box, closed...</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5314.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5314-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5314.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5314-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>and open, with concealed wiring.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5313.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5313-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5313.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5313-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>All devices and targets</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5315.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5315-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5315.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5315-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>The switch to the left puts power onto either the LokProgrammer or the Arduino. The switch on the right puts power from either device onto the track-out.</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5316.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/43/gallery/img_5316-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figure class="gallery__item"><a href="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5316.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks-e35c23.gitlab.io/media/posts/43/gallery/img_5316-thumbnail.jpg" alt="" width="720" height="405"></a>
 <figcaption>The last switch sets the track-out to go either to the track, or the decoder tester.</figcaption>
 </figure>
 </div></div>

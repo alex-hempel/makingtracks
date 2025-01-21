@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://makingtrackstest.ah-web.org/sitemap.xml
+Sitemap: https://makingtracks-e35c23.gitlab.io/sitemap.xml
