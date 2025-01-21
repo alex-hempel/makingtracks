@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://alex-hempel.github.io/makingtracks/feed.xml" rel="self" />
     <link href="https://alex-hempel.github.io/makingtracks" />
-    <updated>2025-01-21T17:42:44+10:00</updated>
+    <updated>2025-01-21T18:48:17+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -688,8 +688,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The following short video clip shows the throwing action from above.</p>
-<figure class="post__video"><video loading="lazy" width="694" height="347" style="width: 694px; height: 347px;" controls="controls" data-mce-fragment="1">
-<source src="img_5274.mp4" type="video/mp4" /></video></figure>
+<div class="post__iframe"><iframe loading="lazy" width="699" height="393" style="width: 699px; height: 393px;" title="img_5274" src="https://makertube.net/videos/embed/7613e583-10c4-4682-bee7-a663de67d0e0" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 <p>As always, thanks for following along!</p>
 <p><!-- /wp:embed --></p>
             ]]>
