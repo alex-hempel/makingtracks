@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://makingtrackstest.ah-web.org/feed.xml" rel="self" />
     <link href="https://makingtrackstest.ah-web.org" />
-    <updated>2025-01-21T21:09:43+10:00</updated>
+    <updated>2025-01-21T21:24:54+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -714,7 +714,11 @@
             <summary>
                 <![CDATA[
                         <img src="https://makingtrackstest.ah-web.org/media/posts/46/img_5561-scaled.jpg" alt="" />
-                    Another year has gone by, and while this blog was offline for part of it, sufficient things have happened in the train room&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>Another year has gone by, and while this blog was offline for part of it, sufficient things have happened in the train room this year. The layout has made progress to the point where we can at least run trains, and there have been a fair few rolling stock additions.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -724,6 +728,7 @@
 <p>Another year has gone by, and while this blog was offline for part of it, sufficient things have happened in the train room this year. The layout has made progress to the point where we can at least run trains, and there have been a fair few rolling stock additions.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
+
 <p>Let's start with those.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
@@ -733,10 +738,54 @@
 <figcaption>Rivarossi Y/B passenger carriages of Deutsche Reichsbahn</figcaption>
 </figure>
 </div></div>
+<p>But while three is a crowd, four carriages do not make a train. Hence, more carriages needed to be acquired. This happened in the form of another set of the same brand, which arrived as a Christmas present. This set includes two more 2nd class coaches and a dining car – I just love the red Mitropa carriages.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5485.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5485-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Rivarossi Y/B passenger carriages of Deutsche Reichsbahn</figcaption>
+</figure>
+</div></div>
+<p>A cool detail I noticed about the coaches is that they have smoking and non-smoking compartments, as would have been common at the time. And the seats in these compartments had different colours – reddish brown for non-smoking, dark green for smoking. This detail has been reproduced in the models.<br><br>The following video shows the BR 132 hauling all seven carriages. In normal operation, I will likely reduce this to 5, and swap carriages in and out. </p>
+<div class="post__iframe"><iframe loading="lazy" width="700" height="394" style="width: 700px; height: 394px;" title="Quick Running Session" src="https://makertube.net/videos/embed/c35b33bf-be55-43c6-a002-c559e387a6cc?start=17s&amp;title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:gallery {"linkTo":"media"} --></p>
 <p><!-- /wp:gallery --></p>
 <p><!-- wp:paragraph --></p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped">Further additions have been made to the Australian fleet. For one, a second X200 has been added. The IDR X200 is a fine model of a small railway tractor as used in New South Wales in the 1960s. But due to its small size and low weight, it is very susceptible to losing power, especially on DCC. Also due to its small size, it’s not easy to add a power pack or keepalive. The process is described online, but I did not feel confident in doing it myself. However, IDR Models offer the installation of a keepalive as a reasonably priced service, so early in the year I had the first X200 upgraded this way. The result was so impressive that we wanted to get a second one – they will be used for small, fictional freight trains. With the keepalive charged, the loco will keep running for up to 10 seconds after losing power, and the light stays on for over 30 seconds.</figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5216.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5216-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>The new addition, X216 in State Rail Authority green</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5217.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5217-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>X216</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5210.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5210-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>X216 alongside the first X200, X214 (Indian Red)</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5211.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5211-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>X216 and X214</figcaption>
+</figure>
+</div></div>
+<p>The other new loco for this year was a bit of an impulse buy. There was appetite for something a bit different than what we already had. Also, since the X200s are nicknamed after my wife and daughter, there was cause for having a loco nicknamed after me. This loco materialised in the shape of a Victorian Railways B Class. This type was the first mainline diesel locomotive to be built for the Victorian broad gauge network. It was also the first EMD-licensed dual cab locomotive, and the design was later used in the popular European Nohab locomotives used by Scandinavian operators.<br><br>Our B Class is B65 in a promotional livery advertising Australian model train manufacturer Auscision. The real loco was given this livery in 2007 and wears it to this day, although it has been permanently withdrawn from service due to serious mechanical problems. Below are a few detail pictures, and a video demonstrating the model’s sound. At the time of shooting the video, there was a small glitch where the engine started moving while the motor was still ‘spooling up’. In the meantime I have updated the decoder’s software, and since then the model is behaving correctly.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5189.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5189-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>B65 from the side</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5190.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5190-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>The front</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5191.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5191-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>You can see the driver figurines</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5192.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5192-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Detail of the bogies</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5198.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5198-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Detail of the front</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5197.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtrackstest.ah-web.org/media/posts/46/gallery/img_5197-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Detail of the rear</figcaption>
+</figure>
+</div></div>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><div class="post__iframe"><iframe loading="lazy" width="699" height="393" style="width: 699px; height: 393px;" title="Auscision B Class Sound Demo" src="https://makertube.net/videos/embed/0436cf52-5deb-4a69-a78a-5e762e787a2f" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div></figure>
 <p><!-- /wp:embed --></p>
 <p><!-- wp:paragraph --></p>
