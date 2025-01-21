@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://makingtrackstest.ah-web.org/feed.xml" rel="self" />
     <link href="https://makingtrackstest.ah-web.org" />
-    <updated>2025-01-21T21:24:54+10:00</updated>
+    <updated>2025-01-21T21:29:05+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -929,14 +929,18 @@
             <summary>
                 <![CDATA[
                         <img src="https://makingtrackstest.ah-web.org/media/posts/43/img_5313-scaled.jpg" alt="" />
-                    Truth be told... the Mk1 of the programming box was always more of a proof-of-concept than an actually usable thing. It was used&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>Truth be told... the <a href="https://makingtrackstest.ah-web.org/building-a-programming-box-part-i/">Mk1 of the programming box</a> was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://makingtrackstest.ah-web.org/media/posts/43/img_5313-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
-<p>Truth be told... the <a href="https://makingtrackstest.ah-web.org/building-a-programming-box-part-i/">Mk1 of the programming box</a> was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement. I had a few things in mind for making this contraption better, but my main pain point were the wires. They just <em>had</em> to be concealed somehow, everything else was just too ugly.</p>
+<p>Truth be told... the <a href="https://makingtrackstest.ah-web.org/building-a-programming-box-part-i/">Mk1 of the programming box</a> was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement.</p>
+
+<p>I had a few things in mind for making this contraption better, but my main pain point were the wires. They just <em>had</em> to be concealed somehow, everything else was just too ugly.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Initial attempts at creating a raised cover for the wires in the existing box were not successful. The box is just too flat to do anything meaningful, the space constraints meant that there was not enough room for the switches and connectors, and I even ended up breaking a few things. I contemplated getting a different box with the appropriate dimensions, but it wasn't a high priority, and with a slim budget there was always something else that was more urgently needed. So I kept putting off the improvements, while not using the box at all.</p>
