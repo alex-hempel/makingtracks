@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://makingtracks.ah-web.org/feed.xml" rel="self" />
     <link href="https://makingtracks.ah-web.org" />
-    <updated>2025-01-25T21:19:44+10:00</updated>
+    <updated>2025-01-25T21:26:19+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -22,7 +22,9 @@
             <summary>
                 <![CDATA[
                         <img src="https://makingtracks.ah-web.org/media/posts/7/Screenshot-2025-01-25-211800.png" alt="" />
-                    In the pursuit of being able to control as many things as possible digitally, while keeping effort to a minimum, I went down&hellip;
+                    <p><!-- wp:paragraph --></p>
+<p>In the pursuit of being able to control as many things as possible digitally, while keeping effort to a minimum, I went down the rabbit hole of controlling some of the scenic accessories via DCC. Currently I have two buildings with functions that I want to turn off and on at will: a lighthouse, and a windmill.</p>
+
                 ]]>
             </summary>
         <content type="html">
@@ -30,6 +32,7 @@
                     <p><img src="https://makingtracks.ah-web.org/media/posts/7/Screenshot-2025-01-25-211800.png" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>In the pursuit of being able to control as many things as possible digitally, while keeping effort to a minimum, I went down the rabbit hole of controlling some of the scenic accessories via DCC. Currently I have two buildings with functions that I want to turn off and on at will: a lighthouse, and a windmill.</p>
+
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>The windmill came with a motor specifically operating on 16V AC. In anticipation of this, I built a 16V AC wire bus under my layout quite some time ago. That came in handy when the lighthouse was built, since it is capable of operating on that same voltage.</p>
