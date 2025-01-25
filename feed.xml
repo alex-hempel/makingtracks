@@ -3,12 +3,69 @@
     <title>Making Tracks</title>
     <link href="https://makingtracks.ah-web.org/feed.xml" rel="self" />
     <link href="https://makingtracks.ah-web.org" />
-    <updated>2025-01-21T21:29:05+10:00</updated>
+    <updated>2025-01-25T21:19:44+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
     <id>https://makingtracks.ah-web.org</id>
 
+    <entry>
+        <title>Fun with Relays</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://makingtracks.ah-web.org/fun-with-relays/"/>
+        <id>https://makingtracks.ah-web.org/fun-with-relays/</id>
+        <media:content url="https://makingtracks.ah-web.org/media/posts/7/Screenshot-2025-01-25-211800.png" medium="image" />
+
+        <updated>2025-01-25T21:17:00+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://makingtracks.ah-web.org/media/posts/7/Screenshot-2025-01-25-211800.png" alt="" />
+                    In the pursuit of being able to control as many things as possible digitally, while keeping effort to a minimum, I went down&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://makingtracks.ah-web.org/media/posts/7/Screenshot-2025-01-25-211800.png" class="type:primaryImage" alt="" /></p>
+                <p><!-- wp:paragraph --></p>
+<p>In the pursuit of being able to control as many things as possible digitally, while keeping effort to a minimum, I went down the rabbit hole of controlling some of the scenic accessories via DCC. Currently I have two buildings with functions that I want to turn off and on at will: a lighthouse, and a windmill.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The windmill came with a motor specifically operating on 16V AC. In anticipation of this, I built a 16V AC wire bus under my layout quite some time ago. That came in handy when the lighthouse was built, since it is capable of operating on that same voltage.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>To control any accessories I intended to use the same <a href="https://makingtracks.ah-web.org/point-motor-shoot-out-servo-and-volley/">MarDec devices</a> which I am using to control servos: Arduino-based accessory decoders with high flexibility. Out of the box MarDec supports servo control as well as a number of ways to control other accessories, including steady power, flashing lights and similar. However, using the output of these devices to power accessories directly is only suitable for things that work with 5V and draw low amperage. For anything else, additional work is required. When you do a bit of research, you'll hear talk about Mosfet switches, transistors or relays. What you end up using is - largely - up to your confidence with electronics and appetite for complexity.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I quickly decided to go with relays. The other options don't readily offer themselves for use with AC, as far as I was able to determine with my limited electronics knowledge. Relays are quite simple to wire in, all they need is a power source and a signal, and then they pass through whatever is connected to the right contacts (within their specs, of course). How that's done with the windmill is shown in the below graphic.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1339,"sizeSlug":"large","linkDestination":"none"} --></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/7/gallery/relay_accessories.png" data-size="1070x828"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/7/gallery/relay_accessories-thumbnail.png" alt="" width="720" height="557"></a></figure>
+</div></div>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>The 16V AC are connected to the common and the Normally Open (NO) connector. A proper DC power supply is connected to DC+ and DC- connectors - in my case that's 5V, but these relays are available for different operating voltages. Lastly, one of the Mardec ports is connected to the IN connector, and the port is configured to provide a single steady signal when activated, which happens through a DCC accessory address. On activation, the relay is triggered and the 16V AC flows through to the motor in the windmill - or any other accessory wired this way.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>What I learned about relays has also come in helpful for another small project I'm working on. But that will be subject of a separate post. In the meantime, I'll just show off the two buildings that I can now control with relays. Stay tuned.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:video {"autoplay":true,"id":1379} --></p>
+<figure class="wp-block-video">
+<table style="border-collapse: collapse; width: 100%; border-style: none;" border="0">
+<tbody>
+<tr>
+<td style="width: 49.9288%;"><div class="post__iframe"><iframe loading="lazy" width="348" height="196" style="width: 348px; height: 196px;" title="Windmill" src="https://makertube.net/videos/embed/56822c6d-7001-4a11-9c18-e5f86fa7bdff" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div></td>
+<td style="width: 49.9288%;"><div class="post__iframe"><iframe loading="lazy" width="348" height="196" style="width: 348px; height: 196px;" title="Lighthouse" src="https://makertube.net/videos/embed/ca1349c0-3108-4ff8-ba4b-368bfa4c4ef4" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div></td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p><!-- /wp:video --></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Some things are worth collecting</title>
         <author>
@@ -913,78 +970,6 @@
 <div class="wp-block-embed__wrapper"><div class="post__iframe"><iframe loading="lazy" width="708" height="398" style="width: 708px; height: 398px;" title="Aurizon 2388D and 2313D hauling empties through Grandchester" src="https://makertube.net/videos/embed/9591d430-0a39-4292-af64-eb7aa6155f9f" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div></div>
 </figure>
 <p><!-- /wp:embed --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Building a Programming Box, Part 2</title>
-        <author>
-            <name>Alex</name>
-        </author>
-        <link href="https://makingtracks.ah-web.org/building-a-programming-box-part-2/"/>
-        <id>https://makingtracks.ah-web.org/building-a-programming-box-part-2/</id>
-        <media:content url="https://makingtracks.ah-web.org/media/posts/43/img_5313-scaled.jpg" medium="image" />
-
-        <updated>2022-11-08T08:26:16+10:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://makingtracks.ah-web.org/media/posts/43/img_5313-scaled.jpg" alt="" />
-                    <p><!-- wp:paragraph --></p>
-<p>Truth be told... the <a href="https://makingtracks.ah-web.org/building-a-programming-box-part-i/">Mk1 of the programming box</a> was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://makingtracks.ah-web.org/media/posts/43/img_5313-scaled.jpg" class="type:primaryImage" alt="" /></p>
-                <p><!-- wp:paragraph --></p>
-<p>Truth be told... the <a href="https://makingtracks.ah-web.org/building-a-programming-box-part-i/">Mk1 of the programming box</a> was always more of a proof-of-concept than an actually usable thing. It was used once or twice, but was so unwieldy that it really needed improvement.</p>
-
-<p>I had a few things in mind for making this contraption better, but my main pain point were the wires. They just <em>had</em> to be concealed somehow, everything else was just too ugly.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Initial attempts at creating a raised cover for the wires in the existing box were not successful. The box is just too flat to do anything meaningful, the space constraints meant that there was not enough room for the switches and connectors, and I even ended up breaking a few things. I contemplated getting a different box with the appropriate dimensions, but it wasn't a high priority, and with a slim budget there was always something else that was more urgently needed. So I kept putting off the improvements, while not using the box at all.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Until I came across another wooden box of the same kind.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Having two of those boxes gave me an idea. What if I could turn two into one? I initially thought about dismantling and reassembling the two boxes into one deeper box, in which I could then create an intermediate layer. But ultimately that seemed too complicated. I settled on a variant where I simply bolted both boxes together to form a double-lidded box. The top part contained the devices and test track as before, the bottom part was used to conceal the wires.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>As for the wiring, I also moved away from my original idea of using plugs and sockets to create the required connection between programming devices, track, or decoder tester. What I started envisioning over time was this: I wanted to be able to plug power into the box, then switch on the combination of devices required for the specific task, put the loco or decoder on the track or tester, and perform the work. Power-wise, this was not a problem, because the Arduino motor shield can be powered from the same power supply as the LokProgrammer (the Arduino itself still needs USB power). My biggest concern with this setup was the remote possibility of accidentally creating a power loop and frying an expensive device.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>I acquired three DPDT switches with a centre-off position. These switches are quite big and heavy. I also added a power jack matching the ESU power supply, and a LED to indicate that the box has power. The power jack is wired into the centre position of the leftmost switch, LokProgrammer and Arduino each into one of the On positions. The middle switch is the track-out, with both devices again wired into one of the On positions, and a set of wires going across to the third switch, which is also wired into the track and the decoder tester. I verified the correct power flow using a small lightbulb with a wired socket - a great little tool to have around for all kinds of quick tests. These bulbs are used for lighting up model buildings and are specified for 12-16V.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Once I was happy with the switches and wiring, I connected up all the devices and tested carefully. Everything worked as expected, which surprised even me. Now I have an easy way to program and test new decoders and locomotives, it's quick to set up and pleasant to use. I still have to connect each device to USB individually, but that's not a big worry. On the Arduino motor shield, I only have the programming output wired into the track-out. If I need to test something on this device, I can send the command "&lt;1 JOIN&gt;" to make it temporarily provide main power on the programming output. That helpful advice given to me by someone on a German model railway forum saved me from wiring in yet another switch.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Overall, I am quite happy with Mk2 of this project.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5317.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5317-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Double box, closed...</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5314.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5314-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>and open, with concealed wiring.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5313.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5313-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>All devices and targets</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5315.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5315-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>The switch to the left puts power onto either the LokProgrammer or the Arduino. The switch on the right puts power from either device onto the track-out.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5316.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/43/gallery/img_5316-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>The last switch sets the track-out to go either to the track, or the decoder tester.</figcaption>
-</figure>
-</div></div>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:gallery {"linkTo":"media"} --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"></figure>
-<p><!-- /wp:gallery --></p>
-<p><!-- wp:paragraph --></p>
-<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
