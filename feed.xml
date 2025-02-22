@@ -3,7 +3,7 @@
     <title>Making Tracks</title>
     <link href="https://makingtracks.ah-web.org/feed.xml" rel="self" />
     <link href="https://makingtracks.ah-web.org" />
-    <updated>2025-02-22T20:22:47+10:00</updated>
+    <updated>2025-02-22T20:38:12+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
@@ -16,10 +16,12 @@
         </author>
         <link href="https://makingtracks.ah-web.org/train-portraits-the-intermodal/"/>
         <id>https://makingtracks.ah-web.org/train-portraits-the-intermodal/</id>
+        <media:content url="https://makingtracks.ah-web.org/media/posts/64/IMG_7381.jpg" medium="image" />
 
         <updated>2025-02-22T20:14:00+10:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://makingtracks.ah-web.org/media/posts/64/IMG_7381.jpg" alt="" />
                     
   <p>
     Intermodal traffic is pretty big in Australia, and has a long history. While rail freight is dominated by bulk goods such as ore, coal and grain, container traffic is a not insignificant part of Australia's rail transport. Rail corridors between major cities are frequented by container trains, adding up to hundreds of thousands of tons each month.
@@ -29,6 +31,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://makingtracks.ah-web.org/media/posts/64/IMG_7381.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Intermodal traffic is pretty big in Australia, and has a long history. While rail freight is dominated by bulk goods such as ore, coal and grain, container traffic is a not insignificant part of Australia's rail transport. Rail corridors between major cities are frequented by container trains, adding up to hundreds of thousands of tons each month.
