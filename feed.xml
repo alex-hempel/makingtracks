@@ -3,12 +3,99 @@
     <title>Making Tracks</title>
     <link href="https://makingtracks.ah-web.org/feed.xml" rel="self" />
     <link href="https://makingtracks.ah-web.org" />
-    <updated>2025-02-22T20:55:01+10:00</updated>
+    <updated>2025-03-16T16:23:22+10:00</updated>
     <author>
         <name>Alex</name>
     </author>
     <id>https://makingtracks.ah-web.org</id>
 
+    <entry>
+        <title>Project Pendolino: Beginnings</title>
+        <author>
+            <name>Alex</name>
+        </author>
+        <link href="https://makingtracks.ah-web.org/project-pendolino-beginnings/"/>
+        <id>https://makingtracks.ah-web.org/project-pendolino-beginnings/</id>
+        <media:content url="https://makingtracks.ah-web.org/media/posts/65/IMG_7696.jpg" medium="image" />
+
+        <updated>2025-03-16T16:15:00+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://makingtracks.ah-web.org/media/posts/65/IMG_7696.jpg" alt="" />
+                    
+  <p>
+    Say wat you want about my impulse control - or lack thereof: some opportunities are just too good to walk past. Certain models fall under that category, especially when the price is attractive.
+  </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://makingtracks.ah-web.org/media/posts/65/IMG_7696.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Say wat you want about my impulse control - or lack thereof: some opportunities are just too good to walk past. Certain models fall under that category, especially when the price is attractive.
+  </p>
+
+
+  <p>
+    Like this model of a BR 610 Diesel multiple unit of Deutsche Bahn. I have a weakness for diesel railcar models, and something in the traffic red DB livery of the late 1990s had long tickled my fancy. Such models are rare here in Australia, so when one cropped up on a well known online platform, I kept an eye on it. Initially higher asking prices found no takers, and eventually the price dropped to a level that was perfectly palatable for me.
+  </p>
+
+  <p>
+    The BR 610 was commissioned by Deutsche Bahn in the late 1980s, to service a regional network of fast trains. For this purpose, the trains were equipped with hydraulic tilting technology, to allow for faster travel through curves, without reducing passenger comfort. While vehicle structure and traction were provided by German suppliers, the bogies and tilting technology came from Fiat's railway subsidiary Fiat Ferroviaria, who had been successfully equipping Italian trains with said tech since the 1970s. The system carried the brand name 'Pendolino', which by extension became the 610s nickname.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="1">
+      <figure class="gallery__item">
+      <a href="https://makingtracks.ah-web.org/media/posts/65/gallery/610013_DB_Cheb.jpg" data-size="1024x725">
+        <img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/65/gallery/610013_DB_Cheb-thumbnail.jpg" height="510" width="720" alt="" >
+      </a>
+      <figcaption>A Deutsche Bahn BR 610 in a livery similar to my model (From Actuell37 - Eigenes Werk, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47478215</figcaption>
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    20 dual units were delivered by 1992, and stayed in service until 2014, by which time they had travelled a collective 100 million kilometres. For all intents and purposes, this prototype was a success. Ironically, the successor model BR 611, which according to requests from Deutsche Bahn had to be fully produced in Germany, was never as reliable as the 610, and even the succeeding BR 612 had issues for a long time.
+  </p>
+
+  <p>
+    Models of the BR 610 in H0 scale were produced by Fleischmann from 1994 to about 2003, who made 2-rail/DC versions under their own brand, and 3-rail/AC versions for Märklin. Later versions were equipped with digital decoders, initially for Fleischmann's DCC predecessor FMZ, but then also with TWIN decoders which worked on both FMZ and DCC systems.<br>
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://makingtracks.ah-web.org/media/posts/65/gallery/IMG_7692.jpg" data-size="4032x2268">
+        <img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/65/gallery/IMG_7692-thumbnail.jpg" height="405" width="720" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://makingtracks.ah-web.org/media/posts/65/gallery/IMG_7695.jpg" data-size="4032x2268">
+        <img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/65/gallery/IMG_7695-thumbnail.jpg" height="405" width="720" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://makingtracks.ah-web.org/media/posts/65/gallery/IMG_7693.jpg" data-size="4032x2268">
+        <img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/65/gallery/IMG_7693-thumbnail.jpg" height="405" width="720" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    The model I acquired is a version with TWIN decoder, so it would have been made between 2001 and 2003. It is an absolutely gorgeous model, and the exterior condition of the second hand exemplar is impeccable. The decoder reads and writes fine under DCC.&nbsp;The bit that really appealed to me about this model was that it is one of the few that has an actual tilting mechanic implemented. Given its age, it is obviously not a very fancy implementation - more of a mechanical property of the cab-side bogies on each car that cause the body to tilt slightly when passing through a curve. That's not overly prototypical, since the tilting is normally speed-dependent and would not happen at slow speeds. But it's enough of a curio to make this model really interesting.
+  </p>
+
+  <p>
+    However, it will need some TLC. A first driving test was unsuccessful. The motor starts haltingly and does not move the vehicle very well. Also, there appears to be no light function. I have only just received the model, so I have not yet been able to look at things any more closely. It is clear that there are a number of things to address, and a number of possible solutions to different problems. So this will become a loose series of articles, as I examine the model more closely with the objective to make it fully functional.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Train Portraits: The Intermodal</title>
         <author>
@@ -1107,157 +1194,6 @@
 <div class="post__iframe"><iframe loading="lazy" width="700" height="394" style="width: 700px; height: 394px;" title="Servo-driven point motor" src="https://makertube.net/videos/embed/7613e583-10c4-4682-bee7-a663de67d0e0?title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
 <p>As always, thanks for following along!</p>
 <p><!-- /wp:embed --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>2022 In Retrospect</title>
-        <author>
-            <name>Alex</name>
-        </author>
-        <link href="https://makingtracks.ah-web.org/2022-in-retrospect/"/>
-        <id>https://makingtracks.ah-web.org/2022-in-retrospect/</id>
-        <media:content url="https://makingtracks.ah-web.org/media/posts/46/img_5561-scaled.jpg" medium="image" />
-
-        <updated>2023-01-16T11:13:49+10:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://makingtracks.ah-web.org/media/posts/46/img_5561-scaled.jpg" alt="" />
-                    <p><!-- wp:paragraph --></p>
-<p>Another year has gone by, and while this blog was offline for part of it, sufficient things have happened in the train room this year. The layout has made progress to the point where we can at least run trains, and there have been a fair few rolling stock additions.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://makingtracks.ah-web.org/media/posts/46/img_5561-scaled.jpg" class="type:primaryImage" alt="" /></p>
-                <p><!-- wp:paragraph --></p>
-<p>Another year has gone by, and while this blog was offline for part of it, sufficient things have happened in the train room this year. The layout has made progress to the point where we can at least run trains, and there have been a fair few rolling stock additions.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-
-<p>Let's start with those.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>The first addition of the year (<a rel="noreferrer noopener" href="https://makingtracks.ah-web.org/2022/02/03/a-late-2021-retrospective/" data-type="post" data-id="924" target="_blank">not counting the BR 220 which was a 2021 Christmas present but arrived late</a>) was a set of four passenger carriages of the type Y/B, as operated by Deutsche Reichsbahn in the 1980s. These carriages were a perfect fit for my BR 132, and they were so cheap that I could not walk past them. The set of 3, consisting of a 1st class carriage, a mixed class carriage and a 2nd class carriage (with sleeper compartment), would have cost over $300 Australian. The extra carriage is a somewhat rare Salon car which would have been used in charter trains and other special consists, not something you would have seen regularly. I got all four carriages for $150, which was an absolute bargain considering they were basically new.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_4912.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_4912-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Rivarossi Y/B passenger carriages of Deutsche Reichsbahn</figcaption>
-</figure>
-</div></div>
-<p>But while three is a crowd, four carriages do not make a train. Hence, more carriages needed to be acquired. This happened in the form of another set of the same brand, which arrived as a Christmas present. This set includes two more 2nd class coaches and a dining car – I just love the red Mitropa carriages.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5485.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5485-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Rivarossi Y/B passenger carriages of Deutsche Reichsbahn</figcaption>
-</figure>
-</div></div>
-<p>A cool detail I noticed about the coaches is that they have smoking and non-smoking compartments, as would have been common at the time. And the seats in these compartments had different colours – reddish brown for non-smoking, dark green for smoking. This detail has been reproduced in the models.<br><br>The following video shows the BR 132 hauling all seven carriages. In normal operation, I will likely reduce this to 5, and swap carriages in and out. </p>
-<div class="post__iframe"><iframe loading="lazy" width="700" height="394" style="width: 700px; height: 394px;" title="Quick Running Session" src="https://makertube.net/videos/embed/c35b33bf-be55-43c6-a002-c559e387a6cc?start=17s&amp;title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:gallery {"linkTo":"media"} --></p>
-<p><!-- /wp:gallery --></p>
-<p><!-- wp:paragraph --></p>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped">Further additions have been made to the Australian fleet. For one, a second X200 has been added. The IDR X200 is a fine model of a small railway tractor as used in New South Wales in the 1960s. But due to its small size and low weight, it is very susceptible to losing power, especially on DCC. Also due to its small size, it’s not easy to add a power pack or keepalive. The process is described online, but I did not feel confident in doing it myself. However, IDR Models offer the installation of a keepalive as a reasonably priced service, so early in the year I had the first X200 upgraded this way. The result was so impressive that we wanted to get a second one – they will be used for small, fictional freight trains. With the keepalive charged, the loco will keep running for up to 10 seconds after losing power, and the light stays on for over 30 seconds.</figure>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5216.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5216-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>The new addition, X216 in State Rail Authority green</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5217.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5217-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>X216</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5210.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5210-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>X216 alongside the first X200, X214 (Indian Red)</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5211.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5211-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>X216 and X214</figcaption>
-</figure>
-</div></div>
-<p>The other new loco for this year was a bit of an impulse buy. There was appetite for something a bit different than what we already had. Also, since the X200s are nicknamed after my wife and daughter, there was cause for having a loco nicknamed after me. This loco materialised in the shape of a Victorian Railways B Class. This type was the first mainline diesel locomotive to be built for the Victorian broad gauge network. It was also the first EMD-licensed dual cab locomotive, and the design was later used in the popular European Nohab locomotives used by Scandinavian operators.<br><br>Our B Class is B65 in a promotional livery advertising Australian model train manufacturer Auscision. The real loco was given this livery in 2007 and wears it to this day, although it has been permanently withdrawn from service due to serious mechanical problems. Below are a few detail pictures, and a video demonstrating the model’s sound. At the time of shooting the video, there was a small glitch where the engine started moving while the motor was still ‘spooling up’. In the meantime I have updated the decoder’s software, and since then the model is behaving correctly.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5189.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5189-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>B65 from the side</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5190.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5190-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>The front</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5191.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5191-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>You can see the driver figurines</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5192.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5192-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Detail of the bogies</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5198.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5198-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Detail of the front</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5197.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5197-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Detail of the rear</figcaption>
-</figure>
-</div></div>
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><div class="post__iframe"><iframe loading="lazy" width="699" height="393" style="width: 699px; height: 393px;" title="Auscision B Class Sound Demo" src="https://makertube.net/videos/embed/0436cf52-5deb-4a69-a78a-5e762e787a2f" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div></figure>
-<p><!-- /wp:embed --></p>
-<p><!-- wp:paragraph --></p>
-<p>The final addition for the year was another somewhat exotic selection. In the mid 1990s, a class of louvre vans was constructed specifically for the transport of bananas in New South Wales. These wagons, called NLBX, were in service with the now defunct Banana Grower's Federation. While not a lot of information can be found online, it appears certain that they could be found in several colours, and no two vans looked completely alike, as there were differences in signage and lines. These vans were produced as H0 models by On Track Models, and I managed to rustle up two of the last sets still available in the wild. They look great, and among the six wagons out of two sets, no two look alike.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5542.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5542-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>NLBX 29428 with the BGF logo and the banana advertising. Yellow line at the bottom only</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5537.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5537-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>NLBX 31370, both signs, yellow line all around</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5541.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5541-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>NLBX 29462, no signs, yellow line at bottom</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5538.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5538-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>NLBX 31372, BGF logo, yellow line at bottom</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5539.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5539-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>NLBX 31477, yellow line with brake handle marker, no signs</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5540.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5540-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>NLBX 29452, banana advertising, yellow line all around</figcaption>
-</figure>
-</div></div>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:gallery {"linkTo":"media"} --></p>
-<p><!-- /wp:gallery --></p>
-<p><!-- wp:paragraph --></p>
-<p>The following video shows all six NLBX being hauled by B65. This is not fully prototypical, as the NLBX vans went out of service in the early 2000s. But according to the manufacturer, these vans operated in Victoria as well, so it is not out of the question that a B Class could have hauled them at some point - just not B65 in this livery. But you know what? It's good enough for me. In this video, you can also see that some of the vans have a yellow line going all around on one side, but only at the bottom on the other side.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:embed {"url":"https://youtu.be/E3PDiaj-I_E","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} --></p>
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper"><div class="post__iframe"><iframe loading="lazy" width="702" height="395" style="width: 702px; height: 395px;" title="On Track Models NLBX Banana Vans" src="https://makertube.net/videos/embed/fac015f4-324c-468f-b365-1a2af302beb5" frameborder="0" allowfullscreen="allowfullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe></div></div>
-</figure>
-<p><!-- /wp:embed --></p>
-<p><!-- wp:paragraph --></p>
-<p>That's 2022 as far as rolling stock acquisitions are concerned. But what else has happened?</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Of the planned layout, the track for the base layer has been laid and wired up. This can now run trains. They're going in a loop, until the storage layer has been built and a traversal added. I have started operating the points with servos - this will be subject of a separate post soon. The <a href="https://makingtracks.ah-web.org/building-a-programming-box-part-2/">programming box</a> has been upgraded to a point where it's really usable.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Lastly, there were two mini projects I completed last year on the spur of a moment - mini, because neither took very long. One was the addition of a collapsible shelf to the end of the middle section. This shelf is used as a space to put the laptop which is used to operate the train control software. It can also serve as a small workspace for impromptu work. For this purpose, a set of locking hinges was used. Pictures are below.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5225.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5225-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Collapsed</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5226.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5226-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Lifted</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5256.jpg" data-size="4032x2268"><img loading="lazy" src="https://makingtracks.ah-web.org/media/posts/46/gallery/img_5256-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>In Use</figcaption>
-</figure>
-</div></div>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:gallery {"linkTo":"media"} --></p>
-<p><!-- /wp:gallery --></p>
-<p><!-- wp:paragraph --></p>
-<p>The second project - the addition of a track voltage meter to the control panel - can be seen in the image at the top.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>As always, there's more to come. Watch this space.</p>
-<p><!-- /wp:paragraph --></p>
             ]]>
         </content>
     </entry>
